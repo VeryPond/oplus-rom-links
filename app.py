@@ -2,6 +2,15 @@
 """ROM 站：Flask 后端 + JSON API + 直链跳转。"""
 import os, threading, time
 
+import sys as _sys
+if _sys.platform == "win32":
+    for _s in (_sys.stdout, _sys.stderr):
+        try:
+            _s.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:
+            pass
+
+
 from flask import Flask, abort, jsonify, redirect, render_template, request
 
 import catalog

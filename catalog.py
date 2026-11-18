@@ -1,6 +1,15 @@
 # -*- coding: utf-8 -*-
 """ROM 目录：抓取 / 入库 / 查询。"""
 import hashlib, json, os, socket, sqlite3, sys, time
+
+import sys as _sys
+if _sys.platform == "win32":
+    for _s in (_sys.stdout, _sys.stderr):
+        try:
+            _s.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:
+            pass
+
 import urllib.request, urllib.parse, urllib.error
 
 ROOT = os.path.dirname(os.path.abspath(__file__))

@@ -11,6 +11,14 @@
 import sys, os, io, json, time, re, contextlib, sqlite3, threading, argparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+import sys as _sys
+if _sys.platform == "win32":
+    for _s in (_sys.stdout, _sys.stderr):
+        try:
+            _s.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:
+            pass
+
 # 全局静音上游库的 debug 打印（多线程下 redirect_stdout 会互相踩踏）
 REAL_OUT = sys.stdout
 sys.stdout = open(os.devnull, "w")
@@ -18,14 +26,14 @@ sys.stdout = open(os.devnull, "w")
 HERE = os.path.dirname(os.path.abspath(__file__))
 PARENT = os.path.dirname(HERE)
 sys.path.insert(0, PARENT)
-REF = os.path.join(HERE, "_ref")
+REF = os.path.join(PARENT, "_ref")
 os.chdir(REF)
 sys.path.insert(0, REF)
-sys.path.insert(0, HERE)
+sys.path.insert(0, PARENT)
 
 import official_ota as O
 
-DB_PATH = os.path.join(HERE, "data", "roms.db")
+DB_PATH = os.path.join(PARENT, "data", "roms.db")
 SUFFIXES = ["_11.A", "_11.C", "_11.F", "_11.H", "_11.J"]
 
 REGIONS_CN = ["cn", "eu", "in", "sg"]

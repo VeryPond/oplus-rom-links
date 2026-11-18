@@ -13,9 +13,8 @@ data/*.db-shm
 *.log
 scan.log
 
-# 参考实现（从上游下载，不入库）
-_ref/tomboy_pro.py
-_ref/config.py
+# 参考实现：tomboy_pro.py / config.py 是运行时依赖，必须入库（MIT，见 docs/CREDITS.md）
+# 其余上游脚本仅用于参考，不入库
 _ref/C16_transer.py
 _ref/iot_query_new.py
 _ref/downgrade_query.py

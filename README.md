@@ -69,7 +69,7 @@
 ## 站点
 
 ```bash
-pip install flask
+pip install -r requirements.txt
 python app.py
 # 打开 http://127.0.0.1:8000
 ```
@@ -77,7 +77,10 @@ python app.py
 首次运行会自动从第三方目录同步（约 10 秒，国内需要代理）。
 官方接口的数据已经在 `data/roms.db` 里，不联网也能浏览。
 
-### 页面
+#依赖只有三个：`flask`（站点）、`cryptography`（RSA/AES）、`requests`（HTTP）。
+其中 `cryptography` 只在跑官方接口扫描时需要 —— 只浏览不扫描的话，装了 flask 就够。
+
+## 页面
 
 | 路径 | 说明 |
 |---|---|
@@ -133,6 +136,26 @@ docs/                 说明文档（见下）
 | [docs/REGIONS.md](docs/REGIONS.md) | 区域拆分口径、地区码表 |
 | [docs/PITFALLS.md](docs/PITFALLS.md) | 踩过的坑 |
 | [docs/CREDITS.md](docs/CREDITS.md) | 参考项目与工具 |
+
+## 重新扫描
+
+```bash
+# 更新第三方目录（约 10 秒，需代理）
+python catalog.py sync
+
+# 重新扫描官方接口（约 22 分钟，10 并发）
+python tools/scan_official.py --workers 10
+
+# 扫描结果入库
+python tools/import_official.py
+
+# 查看进度
+python tools/progress.py
+```
+
+扫描是**可选**的：仓库不自带 `data/roms.db`（1.9 MB，走 .gitignore），
+首次 `python app.py` 会自动从第三方目录同步，得到 1391 个版本 / 103 个机型。
+想拿到全部 233 个机型，需要自己跑一遍官方接口扫描。
 
 ## 已知限制
 
