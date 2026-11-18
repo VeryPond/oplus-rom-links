@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+{% block title %}ROM 库 · 首页{% endblock %}
+{% block body %}
+<div class="hero">
+  <h1>OPPO / 一加 / realme / 小米 官方 ROM 库</h1>
+  <p class="sub">实时解析官方 OTA 直链，按机型与地区浏览，支持降级与历史版本回溯。</p>
+  <div class="tiles">
+    <div class="tile"><div class="k">{{ stats.total }}</div><div class="l">目录版本</div></div>
+    <div class="tile"><div class="k">{{ stats.official_versions or 0 }}</div><div class="l">官方接口版本</div></div>
+    <div class="tile"><div class="k">{{ stats.devices }}</div><div class="l">机型总数</div></div>
+    <div class="tile"><div class="k">{{ stats.models_hit or 0 }}</div><div class="l">已扫描型号</div></div>
+  </div>
+</div>
+
+<div class="note">
+  直链是厂商 CDN 的临时签名地址，有效期约 30 分钟。点「取直链」现取现用，<b>不要收藏或转发</b>；过期重新点一次即可。
+</div>
+
+<h2>品牌</h2>
+<div class="grid">
+  {% for b in brands %}
+  <a class="card" href="/brand/{{ b.brand }}">
+    <div class="name">{{ b.brand }}</div>
+    <div class="meta">{{ b.devices }} 个机型 · {{ b.releases }} 个版本</div>
+  </a>
+  {% endfor %}
+</div>
+
+<h2 id="regions">按地区浏览</h2>
+<div class="grid">
+  {% for r in regions %}
+  <a class="card" href="/region/{{ r.region }}">
+    <div class="name">{{ r.region|region_name }}<span class="badge b1">{{ r.region }}</span></div>
+    <div class="meta">{{ r.count }} 个机型 · 地区版本</div>
+  </a>
+  {% endfor %}
+</div>
+
+<h2>最近更新</h2>
+<div class="grid">
+  {% for d in devices %}
+  <a class="card" href="/device/{{ d.device }}">
+    <div class="name">{{ d.device }}<span class="badge b1">{{ d.brand }}</span></div>
+    <div class="meta">
+      {% if d.latest %}
+      最新 <b>{{ d.latest.version }}</b><br>
+      {{ d.latest.build[:10] if d.latest.build }} · 补丁 {{ d.latest.patch or '—' }}<br>
+      {% endif %}
+      {{ d.count }} 个版本 · {{ d.regions|length }} 个地区：{{ d.regions|join(' / ') }}
+    </div>
+  </a>
+  {% endfor %}
+</div>
+{% endblock %}

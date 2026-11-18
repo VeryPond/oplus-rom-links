@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block title %}搜索 {{ q }}{% endblock %}
+{% block body %}
+<h1>搜索</h1>
+<p class="sub">{% if q %}“{{ q }}” 找到 {{ devices|length }} 个机型{% else %}输入机型或型号{% endif %}</p>
+{% if devices %}
+<div class="grid">
+  {% for d in devices %}
+  <a class="card" href="/device/{{ d.device }}">
+    <div class="name">{{ d.device }}<span class="badge b1">{{ d.brand }}</span></div>
+    <div class="meta">
+      {% if d.latest %}最新 <b>{{ d.latest.version }}</b><br>{% endif %}
+      {{ d.count }} 个版本 · {{ d.regions|length }} 个地区：{{ d.regions|join(' / ') }}
+    </div>
+  </a>
+  {% endfor %}
+</div>
+{% endif %}
+{% endblock %}

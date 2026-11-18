@@ -1,0 +1,3549 @@
+[
+ {
+  "model": "AIR",
+  "src": [
+   "catalog"
+  ],
+  "device": "Redmi 13C 5G/POCO M6 5G",
+  "brand": "Redmi",
+  "regions": [
+   "EEA",
+   "GLO",
+   "IN",
+   "TW"
+  ]
+ },
+ {
+  "model": "AMETHYST",
+  "src": [
+   "catalog"
+  ],
+  "device": "Redmi Note 14 Pro+ 5G",
+  "brand": "Redmi",
+  "regions": [
+   "EEA",
+   "GLO",
+   "TW"
+  ]
+ },
+ {
+  "model": "ATHENS",
+  "src": [
+   "catalog"
+  ],
+  "device": "POCO F9 Pro",
+  "brand": "POCO",
+  "regions": [
+   "GLO",
+   "TW"
+  ]
+ },
+ {
+  "model": "BERYL",
+  "src": [
+   "catalog"
+  ],
+  "device": "Redmi Note 14 5G",
+  "brand": "Redmi",
+  "regions": [
+   "EEA",
+   "GLO",
+   "TW"
+  ]
+ },
+ {
+  "model": "BRUSSELS",
+  "src": [
+   "catalog"
+  ],
+  "device": "Redmi Note 17 Pro Max 5G",
+  "brand": "Redmi",
+  "regions": [
+   "GLO",
+   "TW"
+  ]
+ },
+ {
+  "model": "CCPH2645",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP 13R",
+  "brand": "OnePlus",
+  "regions": [
+   "EU",
+   "GLO"
+  ]
+ },
+ {
+  "model": "CHAROITE",
+  "src": [
+   "catalog"
+  ],
+  "device": "REDMI Note 15 Pro",
+  "brand": "Redmi",
+  "regions": [
+   "EEA",
+   "GLO",
+   "RU",
+   "TR"
+  ]
+ },
+ {
+  "model": "CPH2005",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2013",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2023",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2025",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2091",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2173",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2211",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2247",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2249",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2251",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2293",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2305",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2321",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2353",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2359",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2363",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2371",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2385",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2415",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2437",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2447",
+  "src": [
+   "catalog",
+   "kiwi"
+  ],
+  "device": "OP 11",
+  "brand": "OnePlus",
+  "regions": [
+   "IN"
+  ]
+ },
+ {
+  "model": "CPH2449",
+  "src": [
+   "catalog",
+   "kiwi"
+  ],
+  "device": "OP 11",
+  "brand": "OnePlus",
+  "regions": [
+   "EU",
+   "GLO"
+  ]
+ },
+ {
+  "model": "CPH2451",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2481",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2483",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2487",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP 11R",
+  "brand": "OnePlus",
+  "regions": [
+   "IN"
+  ]
+ },
+ {
+  "model": "CPH2493",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2525",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2529",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2551",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP OPEN",
+  "brand": "OnePlus",
+  "regions": [
+   "EU",
+   "IN"
+  ]
+ },
+ {
+  "model": "CPH2573",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP 12",
+  "brand": "OnePlus",
+  "regions": [
+   "IN"
+  ]
+ },
+ {
+  "model": "CPH2581",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP 12",
+  "brand": "OnePlus",
+  "regions": [
+   "EU",
+   "GLO"
+  ]
+ },
+ {
+  "model": "CPH2585",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP 12R",
+  "brand": "OnePlus",
+  "regions": [
+   "IN"
+  ]
+ },
+ {
+  "model": "CPH2603",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2609",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP 12R",
+  "brand": "OnePlus",
+  "regions": [
+   "EU",
+   "GLO"
+  ]
+ },
+ {
+  "model": "CPH2613",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP NORD CE4",
+  "brand": "OnePlus",
+  "regions": [
+   "IN"
+  ]
+ },
+ {
+  "model": "CPH2619",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP NORD CE4 LITE",
+  "brand": "OnePlus",
+  "regions": [
+   "IN"
+  ]
+ },
+ {
+  "model": "CPH2621",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP NORD CE4 LITE",
+  "brand": "OnePlus",
+  "regions": [
+   "EU",
+   "GLO"
+  ]
+ },
+ {
+  "model": "CPH2631",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2645",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP 13R",
+  "brand": "OnePlus",
+  "regions": [
+   "EU",
+   "GLO"
+  ]
+ },
+ {
+  "model": "CPH2647",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2649",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP 13",
+  "brand": "OnePlus",
+  "regions": [
+   "IN"
+  ]
+ },
+ {
+  "model": "CPH2651",
+  "src": [
+   "catalog"
+  ],
+  "device": "OPPO FIND X8",
+  "brand": "OPPO",
+  "regions": [
+   "IN"
+  ]
+ },
+ {
+  "model": "CPH2653",
+  "src": [
+   "catalog",
+   "kiwi"
+  ],
+  "device": "OP 13",
+  "brand": "OnePlus",
+  "regions": [
+   "EU",
+   "GLO",
+   "IN"
+  ]
+ },
+ {
+  "model": "CPH2655",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP 13",
+  "brand": "OnePlus",
+  "regions": [
+   "NA"
+  ]
+ },
+ {
+  "model": "CPH2659",
+  "src": [
+   "catalog"
+  ],
+  "device": "OPPO FIND X8 PRO",
+  "brand": "OPPO",
+  "regions": [
+   "EU",
+   "IN"
+  ]
+ },
+ {
+  "model": "CPH2661",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP NORD 4",
+  "brand": "OnePlus",
+  "regions": [
+   "IN"
+  ]
+ },
+ {
+  "model": "CPH2663",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP NORD 4",
+  "brand": "OnePlus",
+  "regions": [
+   "EU",
+   "GLO"
+  ]
+ },
+ {
+  "model": "CPH2671",
+  "src": [
+   "catalog"
+  ],
+  "device": "OPPO FIND N5",
+  "brand": "OPPO",
+  "regions": [
+   "SG"
+  ]
+ },
+ {
+  "model": "CPH2689",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "CPH2691",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP 13R",
+  "brand": "OnePlus",
+  "regions": [
+   "IN"
+  ]
+ },
+ {
+  "model": "CPH2707",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP NORD 5",
+  "brand": "OnePlus",
+  "regions": [
+   "IN"
+  ]
+ },
+ {
+  "model": "CPH2709",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP NORD 5",
+  "brand": "OnePlus",
+  "regions": [
+   "EU",
+   "GLO"
+  ]
+ },
+ {
+  "model": "CPH2717",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP NORD CE5",
+  "brand": "OnePlus",
+  "regions": [
+   "IN"
+  ]
+ },
+ {
+  "model": "CPH2719",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP NORD CE5",
+  "brand": "OnePlus",
+  "regions": [
+   "EU",
+   "GLO"
+  ]
+ },
+ {
+  "model": "CPH2723",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP 13S",
+  "brand": "OnePlus",
+  "regions": [
+   "IN"
+  ]
+ },
+ {
+  "model": "CPH2745",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP 15",
+  "brand": "OnePlus",
+  "regions": [
+   "IN"
+  ]
+ },
+ {
+  "model": "CPH2747",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP 15",
+  "brand": "OnePlus",
+  "regions": [
+   "EU",
+   "GLO"
+  ]
+ },
+ {
+  "model": "CPH2749",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP 15",
+  "brand": "OnePlus",
+  "regions": [
+   "NA"
+  ]
+ },
+ {
+  "model": "CPH2765",
+  "src": [
+   "catalog"
+  ],
+  "device": "OPPO FIND N6",
+  "brand": "OPPO",
+  "regions": [
+   "APC",
+   "SG",
+   "TW"
+  ]
+ },
+ {
+  "model": "CPH2767",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP 15R",
+  "brand": "OnePlus",
+  "regions": [
+   "IN"
+  ]
+ },
+ {
+  "model": "CPH2769",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP 15R",
+  "brand": "OnePlus",
+  "regions": [
+   "EU",
+   "GLO"
+  ]
+ },
+ {
+  "model": "CPH2781",
+  "src": [
+   "catalog"
+  ],
+  "device": "OPPO A6 PRO 5G",
+  "brand": "OPPO",
+  "regions": [
+   "EU",
+   "ID",
+   "IN",
+   "MY",
+   "SG",
+   "TH",
+   "VN"
+  ]
+ },
+ {
+  "model": "CPH2791",
+  "src": [
+   "catalog"
+  ],
+  "device": "OPPO FIND X9 PRO",
+  "brand": "OPPO",
+  "regions": [
+   "APC",
+   "EU",
+   "ID",
+   "IN",
+   "MY",
+   "SG",
+   "TH",
+   "TW",
+   "VN"
+  ]
+ },
+ {
+  "model": "CPH2793",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP NORD 6",
+  "brand": "OnePlus",
+  "regions": [
+   "IN"
+  ]
+ },
+ {
+  "model": "CPH2795",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP NORD 6",
+  "brand": "OnePlus",
+  "regions": [
+   "GLO"
+  ]
+ },
+ {
+  "model": "CPH2797",
+  "src": [
+   "catalog"
+  ],
+  "device": "OPPO FIND X9",
+  "brand": "OPPO",
+  "regions": [
+   "EU",
+   "ID",
+   "IN",
+   "MY",
+   "SG",
+   "TH",
+   "TW",
+   "VN"
+  ]
+ },
+ {
+  "model": "CPH2805",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP NORD CE6",
+  "brand": "OnePlus",
+  "regions": [
+   "IN"
+  ]
+ },
+ {
+  "model": "CPH2807",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP NORD CE6",
+  "brand": "OnePlus",
+  "regions": [
+   "GLO"
+  ]
+ },
+ {
+  "model": "CPH2841",
+  "src": [
+   "catalog"
+  ],
+  "device": "OPPO FIND X9 ULTRA",
+  "brand": "OPPO",
+  "regions": [
+   "APC",
+   "EU",
+   "ID",
+   "IN",
+   "JP",
+   "MX",
+   "MY",
+   "SG",
+   "TH",
+   "TW",
+   "VN"
+  ]
+ },
+ {
+  "model": "CPH2859",
+  "src": [
+   "catalog"
+  ],
+  "device": "OPPO RENO 16 F",
+  "brand": "OPPO",
+  "regions": [
+   "EU",
+   "ID",
+   "IN",
+   "MY",
+   "SG",
+   "TH",
+   "TW",
+   "VN"
+  ]
+ },
+ {
+  "model": "CPH2863",
+  "src": [
+   "catalog"
+  ],
+  "device": "OPPO RENO 16 PRO",
+  "brand": "OPPO",
+  "regions": [
+   "EU",
+   "ID",
+   "MY",
+   "TH",
+   "VN"
+  ]
+ },
+ {
+  "model": "CPH2865",
+  "src": [
+   "catalog"
+  ],
+  "device": "OPPO RENO 16",
+  "brand": "OPPO",
+  "regions": [
+   "EU",
+   "ID",
+   "IN",
+   "MY",
+   "SG",
+   "TH",
+   "TW",
+   "VN"
+  ]
+ },
+ {
+  "model": "CPH2873",
+  "src": [
+   "catalog"
+  ],
+  "device": "OPPO FIND X9s",
+  "brand": "OPPO",
+  "regions": [
+   "ID",
+   "IN",
+   "MY",
+   "SG",
+   "TH",
+   "TW",
+   "VN"
+  ]
+ },
+ {
+  "model": "DADA",
+  "src": [
+   "catalog"
+  ],
+  "device": "Xiaomi 15",
+  "brand": "Xiaomi",
+  "regions": [
+   "EEA",
+   "GLO",
+   "RU",
+   "TW"
+  ]
+ },
+ {
+  "model": "FLOURITE",
+  "src": [
+   "catalog"
+  ],
+  "device": "POCO M8 Pro 5G",
+  "brand": "POCO",
+  "regions": [
+   "EEA"
+  ]
+ },
+ {
+  "model": "GOYA",
+  "src": [
+   "catalog"
+  ],
+  "device": "Xiaomi 15T",
+  "brand": "Xiaomi",
+  "regions": [
+   "EEA",
+   "GLO",
+   "TW"
+  ]
+ },
+ {
+  "model": "IOLITE",
+  "src": [
+   "catalog"
+  ],
+  "device": "Redmi Note 17 Pro 5G",
+  "brand": "Redmi",
+  "regions": [
+   "GLO",
+   "TW"
+  ]
+ },
+ {
+  "model": "KLIMT",
+  "src": [
+   "catalog"
+  ],
+  "device": "Xiaomi 15T Pro",
+  "brand": "Xiaomi",
+  "regions": [
+   "EEA",
+   "GLO",
+   "ID",
+   "RU",
+   "TR",
+   "TW"
+  ]
+ },
+ {
+  "model": "KOTO",
+  "src": [
+   "catalog"
+  ],
+  "device": "Redmi Pad 2",
+  "brand": "Redmi",
+  "regions": [
+   "EEA",
+   "GLO",
+   "ID",
+   "IN",
+   "RU",
+   "TW"
+  ]
+ },
+ {
+  "model": "LEEDSA",
+  "src": [
+   "catalog"
+  ],
+  "device": "REDMI 17",
+  "brand": "Redmi",
+  "regions": [
+   "EEA",
+   "GLO",
+   "TW"
+  ]
+ },
+ {
+  "model": "MALACHITE",
+  "src": [
+   "catalog"
+  ],
+  "device": "POCO X7",
+  "brand": "POCO",
+  "regions": [
+   "EEA",
+   "GLO",
+   "ID",
+   "RU",
+   "TW"
+  ]
+ },
+ {
+  "model": "MIRO",
+  "src": [
+   "catalog"
+  ],
+  "device": "POCO F7 Ultra",
+  "brand": "POCO",
+  "regions": [
+   "EEA",
+   "GLO",
+   "RU"
+  ]
+ },
+ {
+  "model": "MIST",
+  "src": [
+   "catalog"
+  ],
+  "device": "REDMI Note 17 5G",
+  "brand": "Redmi",
+  "regions": [
+   "GLO",
+   "TW"
+  ]
+ },
+ {
+  "model": "MUYU",
+  "src": [
+   "catalog"
+  ],
+  "device": "Xiaomi Pad 7 Pro",
+  "brand": "Xiaomi",
+  "regions": [
+   "EEA",
+   "GLO"
+  ]
+ },
+ {
+  "model": "NE2210",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP 10 PRO",
+  "brand": "OnePlus",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "NE2211",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP 10 PRO",
+  "brand": "OnePlus",
+  "regions": [
+   "IN"
+  ]
+ },
+ {
+  "model": "NE2213",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP 10 PRO",
+  "brand": "OnePlus",
+  "regions": [
+   "EU",
+   "GLO"
+  ]
+ },
+ {
+  "model": "NEZHA",
+  "src": [
+   "catalog"
+  ],
+  "device": "Xiaomi 17 Ultra",
+  "brand": "Xiaomi",
+  "regions": [
+   "GLO"
+  ]
+ },
+ {
+  "model": "OBSIDIAN",
+  "src": [
+   "catalog"
+  ],
+  "device": "Redmi Note 14 Pro",
+  "brand": "Redmi",
+  "regions": [
+   "EEA",
+   "GLO",
+   "RU"
+  ]
+ },
+ {
+  "model": "OPD2101",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "OPD2102",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "OPD2403",
+  "src": [
+   "catalog",
+   "kiwi"
+  ],
+  "device": "OP PAD2",
+  "brand": "OnePlus",
+  "regions": [
+   "EU",
+   "IN"
+  ]
+ },
+ {
+  "model": "OPD2404",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP PAD PRO",
+  "brand": "OnePlus",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "OPD2407",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP PAD",
+  "brand": "OnePlus",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "OPD2413",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP PAD2 PRO",
+  "brand": "OnePlus",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "OPD2415",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP PAD3",
+  "brand": "OnePlus",
+  "regions": [
+   "EU",
+   "GLO",
+   "IN"
+  ]
+ },
+ {
+  "model": "OPD2417",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "OPD2480",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP PAD LITE",
+  "brand": "OnePlus",
+  "regions": [
+   "EU",
+   "GLO"
+  ]
+ },
+ {
+  "model": "OPD2501",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "OPD2504",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP PAD GO 2",
+  "brand": "OnePlus",
+  "regions": [
+   "EU",
+   "GLO"
+  ]
+ },
+ {
+  "model": "OPD2506",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "OPD2511",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "OPD2513",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP PAD3 PRO",
+  "brand": "OnePlus",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "OPD2514",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP PAD4",
+  "brand": "OnePlus",
+  "regions": [
+   "GLO",
+   "IN"
+  ]
+ },
+ {
+  "model": "OPPO",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "OPPO A59s",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PAAM00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PAAT00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PADM00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PADT00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PAFM00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PAFT00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PBCM30",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PBDT00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PBEM00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PBET00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PCAM10",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PCAT00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PCAT10",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PCCM00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PCEM00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PCGM00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PCKM80",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PCLM10",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PCRM00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PCRT01",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PDAM00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PDAT10",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PDCM00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PDEM10",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PDEM30",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PDKM00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PDNT00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PDPT00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PDRM00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PDSM00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PDYM10",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PDYM20",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PEAM00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PEAT00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PECT30",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PEDM00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PEEM00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PEFM00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PEGT00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PEHM00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PEMM20",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PEMT00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PEMT20",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PENM00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PEPM00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PEQM00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PERIDOT",
+  "src": [
+   "catalog"
+  ],
+  "device": "POCO F6",
+  "brand": "POCO",
+  "regions": [
+   "EEA",
+   "GLO",
+   "ID",
+   "IN",
+   "RU",
+   "TW"
+  ]
+ },
+ {
+  "model": "PERM00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PERM10",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PEXM00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PFCM00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PFDM00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PFEM10",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PFFM10",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PFGM00",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PFUM10",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PFVM10",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PGAM10",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PGBM10",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PGGM10",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PGIM10",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PGKM10",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PGT110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PGW110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PHA120",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PHF110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PHJ110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PHK110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PHS110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PHU110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PHW110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PHY120",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PJA110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PJB110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PJD110",
+  "src": [
+   "catalog",
+   "kiwi"
+  ],
+  "device": "OP 12",
+  "brand": "OnePlus",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PJE110",
+  "src": [
+   "catalog",
+   "kiwi"
+  ],
+  "device": "OP ACE 3",
+  "brand": "OnePlus",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PJF110",
+  "src": [
+   "catalog",
+   "kiwi"
+  ],
+  "device": "OP ACE 3V",
+  "brand": "OnePlus",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PJH110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PJR110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PJT110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PJU110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PJV110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PJX110",
+  "src": [
+   "catalog",
+   "kiwi"
+  ],
+  "device": "OP ACE 3 PRO",
+  "brand": "OnePlus",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PJY110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PJZ110",
+  "src": [
+   "catalog",
+   "kiwi"
+  ],
+  "device": "OP 13",
+  "brand": "OnePlus",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PKA110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PKB110",
+  "src": [
+   "catalog",
+   "kiwi"
+  ],
+  "device": "OPPO FIND X8",
+  "brand": "OPPO",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PKC110",
+  "src": [
+   "catalog",
+   "kiwi"
+  ],
+  "device": "OPPO FIND X8 PRO",
+  "brand": "OPPO",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PKC130",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PKD110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PKG110",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP ACE 5",
+  "brand": "OnePlus",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PKH110",
+  "src": [
+   "catalog",
+   "kiwi"
+  ],
+  "device": "OPPO FIND N5",
+  "brand": "OPPO",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PKH120",
+  "src": [
+   "catalog"
+  ],
+  "device": "OPPO FIND N5",
+  "brand": "OPPO",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PKJ110",
+  "src": [
+   "catalog"
+  ],
+  "device": "OPPO FIND X8 ULTRA",
+  "brand": "OPPO",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PKK110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PKL110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PKM110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PKQ110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PKR110",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP ACE 5 PRO",
+  "brand": "OnePlus",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PKU110",
+  "src": [
+   "catalog"
+  ],
+  "device": "OPPO FIND X8 ULTRA",
+  "brand": "OPPO",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PKX110",
+  "src": [
+   "catalog",
+   "kiwi"
+  ],
+  "device": "OP 13T",
+  "brand": "OnePlus",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PLA110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PLB110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PLC110",
+  "src": [
+   "catalog",
+   "kiwi"
+  ],
+  "device": "OP ACE 5 ULTRA",
+  "brand": "OnePlus",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PLD110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PLE110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PLF110",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP ACE 5 RACING",
+  "brand": "OnePlus",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PLG110",
+  "src": [
+   "catalog"
+  ],
+  "device": "OPPO FIND X9 PRO",
+  "brand": "OPPO",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PLG120",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PLJ110",
+  "src": [
+   "catalog"
+  ],
+  "device": "OPPO FIND X9",
+  "brand": "OPPO",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PLK110",
+  "src": [
+   "catalog",
+   "kiwi"
+  ],
+  "device": "OP 15",
+  "brand": "OnePlus",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PLL110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PLM110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PLP110",
+  "src": [
+   "catalog",
+   "kiwi"
+  ],
+  "device": "OPPO FIND N6",
+  "brand": "OPPO",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PLP120",
+  "src": [
+   "catalog",
+   "kiwi"
+  ],
+  "device": "OPPO FIND N6",
+  "brand": "OPPO",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PLQ110",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP ACE 6",
+  "brand": "OnePlus",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PLR110",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP ACE 6T",
+  "brand": "OnePlus",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PLT140",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PLU110",
+  "src": [
+   "catalog",
+   "kiwi"
+  ],
+  "device": "OP TURBO 6",
+  "brand": "OnePlus",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PLV110",
+  "src": [
+   "catalog"
+  ],
+  "device": "OPPO RENO 15 PRO",
+  "brand": "OPPO",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PLW110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PLY110",
+  "src": [
+   "catalog",
+   "kiwi"
+  ],
+  "device": "OP TURBO 6V",
+  "brand": "OnePlus",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PLZ110",
+  "src": [
+   "catalog",
+   "kiwi"
+  ],
+  "device": "OP 15T",
+  "brand": "OnePlus",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PMA110",
+  "src": [
+   "catalog"
+  ],
+  "device": "OPPO FIND X9 ULTRA",
+  "brand": "OPPO",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PMA120",
+  "src": [
+   "catalog",
+   "kiwi"
+  ],
+  "device": "OPPO FIND X9 ULTRA",
+  "brand": "OPPO",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PMA130",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PMB110",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP ACE 6 ULTRA",
+  "brand": "OnePlus",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PMC110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PME110",
+  "src": [
+   "catalog"
+  ],
+  "device": "OPPO FIND X9s PRO",
+  "brand": "OPPO",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PMK110",
+  "src": [
+   "catalog",
+   "kiwi"
+  ],
+  "device": "OPPO RENO 16 PRO",
+  "brand": "OPPO",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PMM110",
+  "src": [
+   "catalog",
+   "kiwi"
+  ],
+  "device": "OPPO RENO 16",
+  "brand": "OPPO",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PMT110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PUDDING",
+  "src": [
+   "catalog"
+  ],
+  "device": "Xiaomi 17",
+  "brand": "Xiaomi",
+  "regions": [
+   "GLO"
+  ]
+ },
+ {
+  "model": "PYB110",
+  "src": [
+   "catalog"
+  ],
+  "device": "OP 16",
+  "brand": "OnePlus",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "PYD110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PYE110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "PYS110",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX1805",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX1851",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX1901",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX1971",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX1991",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX2020",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX2025",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX2030",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX2111",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX2121",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX2142",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX2155",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX2180",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX2189",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX2202",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX2205",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3041",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3042",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3122",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3161",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3201",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3231",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3310",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3370",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3372",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3461",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3462",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3475",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3478",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3511",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3551",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3560",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3562",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3574",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3576",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3581",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3615",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3617",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3619",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3663",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3687",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3706",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3740",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3741",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3750",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3770",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3781",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3800",
+  "src": [
+   "catalog"
+  ],
+  "device": "Realme GT6",
+  "brand": "realme",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "RMX3820",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3841",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3843",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3850",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3888",
+  "src": [
+   "catalog"
+  ],
+  "device": "Realme GT5 PRO",
+  "brand": "realme",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "RMX3920",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3946",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3948",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3952",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3953",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3989",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3993",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3995",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX3996",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX5000",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX5002",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX5010",
+  "src": [
+   "catalog",
+   "kiwi"
+  ],
+  "device": "Realme GT7 PRO",
+  "brand": "realme",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "RMX5011",
+  "src": [
+   "catalog"
+  ],
+  "device": "Realme GT7 PRO",
+  "brand": "realme",
+  "regions": [
+   "EU",
+   "IN"
+  ]
+ },
+ {
+  "model": "RMX5050",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX5051",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX5055",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX5060",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX5061",
+  "src": [
+   "catalog"
+  ],
+  "device": "Realme GT7",
+  "brand": "realme",
+  "regions": [
+   "EU",
+   "IN"
+  ]
+ },
+ {
+  "model": "RMX5062",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX5080",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX5085",
+  "src": [
+   "catalog"
+  ],
+  "device": "Realme GT7T",
+  "brand": "realme",
+  "regions": [
+   "EU",
+   "IN"
+  ]
+ },
+ {
+  "model": "RMX5090",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX5100",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX5120",
+  "src": [
+   "catalog"
+  ],
+  "device": "Realme 16 Pro",
+  "brand": "realme",
+  "regions": [
+   "EU",
+   "IN"
+  ]
+ },
+ {
+  "model": "RMX5131",
+  "src": [
+   "catalog"
+  ],
+  "device": "Realme 16 Pro+",
+  "brand": "realme",
+  "regions": [
+   "EU",
+   "IN"
+  ]
+ },
+ {
+  "model": "RMX5200",
+  "src": [
+   "catalog",
+   "kiwi"
+  ],
+  "device": "Realme GT8 PRO",
+  "brand": "realme",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "RMX5210",
+  "src": [
+   "catalog"
+  ],
+  "device": "Realme GT8 PRO",
+  "brand": "realme",
+  "regions": [
+   "EU",
+   "IN"
+  ]
+ },
+ {
+  "model": "RMX6688",
+  "src": [
+   "kiwi"
+  ],
+  "device": "",
+  "brand": "",
+  "regions": []
+ },
+ {
+  "model": "RMX8899",
+  "src": [
+   "catalog",
+   "kiwi"
+  ],
+  "device": "Realme NEO 8",
+  "brand": "realme",
+  "regions": [
+   "CN"
+  ]
+ },
+ {
+  "model": "RODIN",
+  "src": [
+   "catalog"
+  ],
+  "device": "POCO X7 Pro",
+  "brand": "POCO",
+  "regions": [
+   "EEA",
+   "GLO",
+   "ID",
+   "RU",
+   "TW"
+  ]
+ },
+ {
+  "model": "SKY",
+  "src": [
+   "catalog"
+  ],
+  "device": "Redmi 12 5G/POCO M6 Pro 5G",
+  "brand": "Redmi",
+  "regions": [
+   "EEA",
+   "GLO",
+   "IN",
+   "JP",
+   "TW"
+  ]
+ },
+ {
+  "model": "SONGYUAN",
+  "src": [
+   "catalog"
+  ],
+  "device": "POCO F9 Ultra",
+  "brand": "POCO",
+  "regions": [
+   "GLO",
+   "TW"
+  ]
+ },
+ {
+  "model": "STEPPE",
+  "src": [
+   "catalog"
+  ],
+  "device": "REDMI 17 5G",
+  "brand": "Redmi",
+  "regions": [
+   "GLO",
+   "TW"
+  ]
+ },
+ {
+  "model": "TANZANITE",
+  "src": [
+   "catalog"
+  ],
+  "device": "Redmi Note 14",
+  "brand": "Redmi",
+  "regions": [
+   "EEA",
+   "GLO",
+   "TW"
+  ]
+ },
+ {
+  "model": "TORNADO",
+  "src": [
+   "catalog"
+  ],
+  "device": "Redmi 15C 5G",
+  "brand": "Redmi",
+  "regions": [
+   "EEA",
+   "GLO",
+   "IN",
+   "TR"
+  ]
+ },
+ {
+  "model": "UKE",
+  "src": [
+   "catalog"
+  ],
+  "device": "Xiaomi Pad 7",
+  "brand": "Xiaomi",
+  "regions": [
+   "EEA",
+   "GLO",
+   "TW"
+  ]
+ },
+ {
+  "model": "WARHOL",
+  "src": [
+   "catalog"
+  ],
+  "device": "Xiaomi 17T Pro",
+  "brand": "Xiaomi",
+  "regions": [
+   "EEA",
+   "GLO",
+   "TW"
+  ]
+ },
+ {
+  "model": "XUANYUAN",
+  "src": [
+   "catalog"
+  ],
+  "device": "Xiaomi 15 Ultra",
+  "brand": "Xiaomi",
+  "regions": [
+   "EEA",
+   "GLO",
+   "ID",
+   "RU",
+   "TW"
+  ]
+ },
+ {
+  "model": "ZEPHYR",
+  "src": [
+   "catalog"
+  ],
+  "device": "REDMI Note 17",
+  "brand": "Redmi",
+  "regions": [
+   "GLO",
+   "TW"
+  ]
+ },
+ {
+  "model": "ZORN",
+  "src": [
+   "catalog"
+  ],
+  "device": "POCO F7 Pro",
+  "brand": "POCO",
+  "regions": [
+   "EEA",
+   "RU",
+   "TR",
+   "TW"
+  ]
+ }
+]

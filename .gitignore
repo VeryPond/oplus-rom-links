@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# 数据与本地状态
+data/*.db
+data/*.db-wal
+data/*.db-shm
+*.log
+scan.log
+
+# 参考实现（从上游下载，不入库）
+_ref/tomboy_pro.py
+_ref/config.py
+_ref/C16_transer.py
+_ref/iot_query_new.py
+_ref/downgrade_query.py
+_ref/bsthen.json
+_ref/oppo_go.txt
+
+# 大型映射表（可由脚本重建）
+_ref/ota_all.json
+_ref/catalog_live.json
+_ref/op15_*.json
+
+# 截图产物
+docs/*.png
+!docs/README.md
+
+# 编辑器
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db

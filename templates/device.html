@@ -1,0 +1,99 @@
+{% extends "base.html" %}
+{% block title %}{{ d.device }} ROM{% endblock %}
+{% block body %}
+<h1>{{ d.device }}<span class="badge b1" style="margin-left:10px;vertical-align:middle">{{ d.brand }}</span></h1>
+<p class="sub">
+  型号 {{ d.models|join(' / ') }} · {{ d.releases|length }} 个版本 · {{ d.regions|length }} 个地区
+</p>
+
+<div class="note">
+  直链是临时签名，约 30 分钟失效。<b>取直链</b> 实时换取新地址；<b>下载</b> 会 302 跳到 CDN。
+  数据来源标注：<span class="badge b3">官方接口</span> 表示来自厂商 OTA 服务器（快照），其余来自第三方目录（可实时重解析）。
+</div>
+
+{% set ns = namespace(curr='') %}
+<div style="border:1px solid var(--line);border-radius:12px;overflow:auto;max-height:72vh">
+<table>
+<thead><tr>
+  <th style="width:74px">地区</th>
+  <th>版本</th>
+  <th class="hide-sm" style="width:100px">型号</th>
+  <th class="hide-sm" style="width:110px">构建/发布</th>
+  <th class="hide-sm" style="width:96px">安全补丁</th>
+  <th style="width:88px">大小</th>
+  <th style="width:200px">操作</th>
+</tr></thead>
+<tbody>
+{% for r in d.releases %}
+{% if r.region != ns.curr %}
+  {% set ns.curr = r.region %}
+  <tr style="background:rgba(26,36,52,.55)">
+    <td colspan="7" style="padding:9px 14px;font-weight:700">
+      {{ r.region|region_name }} <span class="badge b1" style="margin-left:6px">{{ r.region }}</span>
+      <span style="color:var(--muted);font-weight:400;margin-left:8px">
+        {% set cnt = d.releases | selectattr('region','equalto',r.region) | list | length %}{{ cnt }} 个版本
+      </span>
+    </td>
+  </tr>
+{% endif %}
+<tr data-rid="{{ r.id }}">
+  <td><span class="pill {% if r.region in ['CN'] %}cn{% elif r.region in ['EU','EEA'] %}eu{% elif r.region in ['IN','ID','MY','TH','SG','VN','APC'] %}in{% else %}glo{% endif %}">{{ r.region }}</span></td>
+  <td class="mono">
+    {{ r.version }}
+    {% if r.is_latest %}<span class="badge b2" style="margin-left:6px">最新</span>{% endif %}
+    {% if r.src == 'official' %}<span class="badge b3" style="margin-left:6px">官方接口</span>{% endif %}
+  </td>
+  <td class="mono hide-sm">{{ r.model or '—' }}</td>
+  <td class="mono hide-sm">{{ (r.build or '')[:10] or '—' }}</td>
+  <td class="hide-sm">{{ r.patch or '—' }}</td>
+  <td class="mono sz" data-rid="{{ r.id }}">{{ (r.size|filesize) if r.size else '—' }}</td>
+  <td>
+    <button class="act primary" onclick="doDownload('{{ r.id }}')">下载</button>
+    <button class="act" onclick="doLink('{{ r.id }}', this)">取直链</button>
+  </td>
+</tr>
+{% endfor %}
+</tbody>
+</table>
+</div>
+{% endblock %}
+
+{% block script %}
+<script>
+async function doLink(rid, btn){
+  btn.disabled = true; var old = btn.textContent; btn.textContent = '解析中…';
+  try{
+    var r = await fetch('/api/resolve/' + rid);
+    var j = await r.json();
+    if(!r.ok || j.error){ toast('解析失败：' + (j.error || r.status), true); return; }
+    await copyText(j.url);
+    var mins = j.expires_in ? Math.round(j.expires_in/60) : null;
+    toast(mins ? ('直链已复制（剩余 ' + mins + ' 分钟有效）') : '直链已复制');
+    var cell = document.querySelector('.sz[data-rid="' + rid + '"]');
+    if(cell && j.size) cell.textContent = fmtSize(j.size);
+  }catch(e){ toast('请求出错：' + e, true); }
+  finally{ btn.disabled = false; btn.textContent = old; }
+}
+async function doDownload(rid){
+  var r = await fetch('/api/resolve/' + rid);
+  var j = await r.json();
+  if(!r.ok || j.error){ toast('解析失败：' + (j.error || r.status), true); return; }
+  var cell = document.querySelector('.sz[data-rid="' + rid + '"]');
+  if(cell && j.size) cell.textContent = fmtSize(j.size);
+  window.location.href = j.url;
+}
+// 批量补大小
+(function(){
+  var cells = Array.prototype.slice.call(document.querySelectorAll('.sz[data-rid]'));
+  var pending = cells.filter(function(c){ return c.textContent.trim() === '—'; });
+  if(!pending.length) return;
+  var ids = pending.map(function(c){ return c.dataset.rid; });
+  fetch('/api/sizes?ids=' + ids.join(','))
+    .then(function(r){ return r.json(); })
+    .then(function(j){
+      var s = j.sizes || {};
+      cells.forEach(function(c){ var n = s[c.dataset.rid]; if(n) c.textContent = fmtSize(n); });
+    }).catch(function(){});
+})();
+</script>
+{% endblock %}

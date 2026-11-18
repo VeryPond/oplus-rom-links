@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{% block title %}ROM 库{% endblock %}</title>
+<style>
+:root{
+  --bg:#0b0f16; --panel:#131a26; --panel2:#1a2434; --line:#243247;
+  --text:#e8eef9; --muted:#8a9ab2; --accent:#4d9bff; --accent2:#37d6a0;
+  --warn:#ffb454; --danger:#ff6b6b;
+  --radius:14px;
+}
+*{box-sizing:border-box}
+body{margin:0;background:
+   radial-gradient(900px 500px at 12% -8%, #16273f 0, transparent 60%),
+   radial-gradient(700px 400px at 92% 0%, #1b2a3d 0, transparent 55%),
+   var(--bg);
+  color:var(--text);font:15px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans SC",system-ui,sans-serif;
+  min-height:100vh}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+.wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+header.top{position:sticky;top:0;z-index:20;backdrop-filter:blur(14px);
+  background:rgba(11,15,22,.82);border-bottom:1px solid var(--line)}
+header.top .wrap{display:flex;align-items:center;gap:18px;height:62px}
+.logo{font-weight:800;font-size:18px;letter-spacing:.3px;display:flex;align-items:center;gap:9px;white-space:nowrap}
+.logo .dot{width:9px;height:9px;border-radius:50%;background:var(--accent2);box-shadow:0 0 14px var(--accent2)}
+nav.main{display:flex;gap:4px;flex-wrap:wrap;margin-left:6px}
+nav.main a{padding:6px 12px;border-radius:9px;color:var(--muted);font-size:14px;font-weight:600}
+nav.main a:hover{background:var(--panel2);color:var(--text);text-decoration:none}
+nav.main a.on{background:var(--panel2);color:var(--text)}
+form.search{margin-left:auto;display:flex;gap:8px}
+form.search input{background:var(--panel);border:1px solid var(--line);color:var(--text);
+  padding:8px 13px;border-radius:10px;font-size:14px;width:230px;outline:none}
+form.search input:focus{border-color:var(--accent)}
+form.search button{background:var(--accent);border:0;color:#04121f;font-weight:700;
+  padding:8px 15px;border-radius:10px;cursor:pointer;font-size:14px}
+main{padding:30px 0 70px}
+h1{font-size:28px;margin:0 0 8px;letter-spacing:-.3px}
+h2{font-size:19px;margin:34px 0 14px}
+.sub{color:var(--muted);font-size:14px;margin:0 0 22px}
+.hero{border:1px solid var(--line);border-radius:var(--radius);padding:26px 26px 22px;
+  background:linear-gradient(150deg,rgba(26,36,52,.92),rgba(16,22,33,.92));margin-bottom:26px}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin-top:20px}
+.tile{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+.tile .k{font-size:24px;font-weight:800;letter-spacing:-.5px}
+.tile .l{color:var(--muted);font-size:12.5px;margin-top:2px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(268px,1fr));gap:13px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:15px 16px;
+  transition:.16s;display:block;color:inherit}
+.card:hover{border-color:#33507a;transform:translateY(-2px);text-decoration:none;
+  box-shadow:0 12px 28px rgba(0,0,0,.32)}
+.card .name{font-weight:700;font-size:15.5px;margin-bottom:7px;display:flex;align-items:center;gap:8px}
+.card .meta{color:var(--muted);font-size:12.5px;line-height:1.75}
+.badge{display:inline-block;font-size:11px;font-weight:700;padding:2px 8px;border-radius:999px;
+  background:var(--panel2);color:var(--muted);border:1px solid var(--line)}
+.badge.b1{background:rgba(77,155,255,.14);color:#8ec2ff;border-color:rgba(77,155,255,.3)}
+.badge.b2{background:rgba(55,214,160,.13);color:#68e8bb;border-color:rgba(55,214,160,.3)}
+.badge.b3{background:rgba(255,180,84,.13);color:#ffc178;border-color:rgba(255,180,84,.3)}
+table{width:100%;border-collapse:collapse;font-size:13.5px}
+th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line)}
+th{color:var(--muted);font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.6px;
+  position:sticky;top:0;background:#16202e;z-index:10;
+  box-shadow:inset 0 -1px 0 var(--line)}
+tbody tr:hover{background:rgba(26,36,52,.6)}
+td.mono,.mono{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:12.5px}
+.pill{display:inline-block;padding:1px 7px;border-radius:6px;font-size:11.5px;font-weight:700;
+  background:var(--panel2);color:var(--muted)}
+.pill.cn{background:rgba(255,107,107,.14);color:#ff9b9b}
+.pill.eu{background:rgba(77,155,255,.14);color:#8ec2ff}
+.pill.in{background:rgba(255,180,84,.14);color:#ffc178}
+.pill.glo{background:rgba(55,214,160,.14);color:#68e8bb}
+button.act{background:var(--panel2);border:1px solid var(--line);color:var(--text);
+  padding:5px 11px;border-radius:8px;cursor:pointer;font-size:12.5px;font-weight:600}
+button.act:hover{border-color:var(--accent);color:var(--accent)}
+button.act.primary{background:var(--accent);border-color:var(--accent);color:#04121f}
+button.act.primary:hover{filter:brightness(1.1);color:#04121f}
+.toast{position:fixed;left:50%;bottom:26px;transform:translate(-50%,20px);opacity:0;
+  background:#0f1724;border:1px solid var(--line);padding:11px 18px;border-radius:11px;
+  font-size:13.5px;max-width:min(560px,90vw);transition:.22s;z-index:99;
+  box-shadow:0 16px 40px rgba(0,0,0,.5)}
+.toast.show{opacity:1;transform:translate(-50%,0)}
+.toast.err{border-color:rgba(255,107,107,.5)}
+.note{border:1px solid rgba(255,180,84,.28);background:rgba(255,180,84,.07);
+  border-radius:11px;padding:13px 16px;font-size:13px;color:#e7cfae;margin:18px 0}
+.empty{color:var(--muted);text-align:center;padding:50px 0}
+footer{border-top:1px solid var(--line);padding:22px 0;color:var(--muted);font-size:12.5px}
+@media(max-width:720px){
+  header.top .wrap{height:auto;padding:11px 0;flex-direction:column;align-items:stretch;gap:10px}
+  form.search{margin-left:0}
+  form.search input{flex:1;width:auto}
+  th{position:static}
+  .hide-sm{display:none}
+}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <a class="logo" href="/"><span class="dot"></span>ROM 库</a>
+  <nav class="main">
+    <a href="/" class="{{ 'on' if active=='home' }}">首页</a>
+    {% for b in ['OPPO','OnePlus','realme','Xiaomi','Redmi','POCO'] %}
+    <a href="/brand/{{ b }}" class="{{ 'on' if active==b }}">{{ b }}</a>
+    {% endfor %}
+    <a href="/#regions" class="{{ 'on' if active=='regions' }}">地区</a>
+  </nav>
+  <form class="search" action="/search" method="get">
+    <input name="q" placeholder="机型 / 型号，如 Find X9" value="{{ q or '' }}">
+    <button type="submit">搜索</button>
+  </form>
+</div></header>
+<main class="wrap">{% block body %}{% endblock %}</main>
+<footer><div class="wrap">
+  数据目录共 {{ stats.total }} 个版本 · {{ stats.devices }} 个机型 · 更新于 {{ stats.catalog_updated_at[:10] }}
+  <br>直链为厂商 CDN 临时签名地址，约 30 分钟失效，过期请重新获取。
+</div></footer>
+<div class="toast" id="toast"></div>
+<script>
+function toast(msg, isErr){
+  var t = document.getElementById('toast');
+  t.textContent = msg;
+  t.className = 'toast show' + (isErr ? ' err' : '');
+  clearTimeout(window.__tt);
+  window.__tt = setTimeout(function(){ t.className='toast'; }, isErr?6000:3800);
+}
+function copyText(s){
+  if(navigator.clipboard && window.isSecureContext) return navigator.clipboard.writeText(s);
+  var ta=document.createElement('textarea'); ta.value=s; ta.style.position='fixed'; ta.style.opacity='0';
+  document.body.appendChild(ta); ta.select();
+  try{ document.execCommand('copy'); }catch(e){}
+  document.body.removeChild(ta);
+  return Promise.resolve();
+}
+function fmtSize(n){
+  if(!n) return '—';
+  var u=['B','KB','MB','GB','TB'],i=0;
+  while(n>=1024 && i<u.length-1){n/=1024;i++;}
+  return n.toFixed(2)+' '+u[i];
+}
+</script>
+{% block script %}{% endblock %}
+</body>
+</html>

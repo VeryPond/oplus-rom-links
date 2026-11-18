@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block title %}{{ code|region_name }} ROM{% endblock %}
+{% block body %}
+<h1>{{ code|region_name }} <span class="badge b1" style="margin-left:10px;vertical-align:middle">{{ code }}</span></h1>
+<p class="sub">该地区共 {{ rows|length }} 个机型条目</p>
+
+<div style="border:1px solid var(--line);border-radius:12px;overflow:auto;max-height:74vh">
+<table>
+<thead><tr>
+  <th>机型</th>
+  <th style="width:110px">品牌</th>
+  <th style="width:90px">型号</th>
+  <th style="width:70px">版本数</th>
+  <th class="hide-sm">最新版本</th>
+  <th class="hide-sm" style="width:96px">构建日期</th>
+  <th style="width:80px">操作</th>
+</tr></thead>
+<tbody>
+{% for r in rows %}
+<tr>
+  <td><a href="/device/{{ r.device }}">{{ r.device }}</a></td>
+  <td><span class="badge">{{ r.brand }}</span></td>
+  <td class="mono">{{ r.models|join(', ') if r.models else '—' }}</td>
+  <td>{{ r.count }}</td>
+  <td class="mono hide-sm">{{ (r.latest.version if r.latest else '—') }}</td>
+  <td class="mono hide-sm">{{ ((r.latest.build if r.latest else '') or '')[:10] or '—' }}</td>
+  <td><a href="/device/{{ r.device }}"><button class="act">查看</button></a></td>
+</tr>
+{% endfor %}
+</tbody>
+</table>
+</div>
+{% endblock %}

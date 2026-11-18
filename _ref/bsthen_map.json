@@ -1,0 +1,4254 @@
+{
+ "KB1001": {
+  "brand": "Ainmel",
+  "name": "KB1001_EEA"
+ },
+ "KB1003": {
+  "brand": "Ainmel",
+  "name": "KB1003_EEA"
+ },
+ "KB1004": {
+  "brand": "Ainmel",
+  "name": "KB1004A_EEA"
+ },
+ "KB1005": {
+  "brand": "Ainmel",
+  "name": "KB1005_EEA"
+ },
+ "PHD20": {
+  "brand": "BLACKLINE",
+  "name": "PHD20"
+ },
+ "PGN613": {
+  "brand": "Condor",
+  "name": "Allure A55 Plus"
+ },
+ "PHQ526": {
+  "brand": "Condor",
+  "name": "G6 Pro"
+ },
+ "PHQ520": {
+  "brand": "Condor",
+  "name": "Griffe G5"
+ },
+ "PAM524": {
+  "brand": "Condor",
+  "name": "Griffe G5 Plus"
+ },
+ "PGN404": {
+  "brand": "Condor",
+  "name": "PGN404"
+ },
+ "PGN409": {
+  "brand": "Condor",
+  "name": "PGN409"
+ },
+ "PGN410": {
+  "brand": "Condor",
+  "name": "PGN410"
+ },
+ "PGN509": {
+  "brand": "Condor",
+  "name": "PGN509"
+ },
+ "PGN511": {
+  "brand": "Condor",
+  "name": "PGN511"
+ },
+ "PGN513": {
+  "brand": "Condor",
+  "name": "PGN513"
+ },
+ "PGN514": {
+  "brand": "Condor",
+  "name": "PGN514"
+ },
+ "PGN515": {
+  "brand": "Condor",
+  "name": "PGN515"
+ },
+ "PGN516": {
+  "brand": "Condor",
+  "name": "PGN516"
+ },
+ "PGN517": {
+  "brand": "Condor",
+  "name": "PGN517"
+ },
+ "PGN518": {
+  "brand": "Condor",
+  "name": "PGN518"
+ },
+ "PGN521": {
+  "brand": "Condor",
+  "name": "PGN521"
+ },
+ "PGN522": {
+  "brand": "Condor",
+  "name": "PGN522"
+ },
+ "PGN523": {
+  "brand": "Condor",
+  "name": "PGN523"
+ },
+ "PGN605": {
+  "brand": "Condor",
+  "name": "PGN605"
+ },
+ "PGN606": {
+  "brand": "Condor",
+  "name": "PGN606"
+ },
+ "PGN607": {
+  "brand": "Condor",
+  "name": "PGN607"
+ },
+ "PGN608": {
+  "brand": "Condor",
+  "name": "PGN608"
+ },
+ "PGN609": {
+  "brand": "Condor",
+  "name": "PGN609"
+ },
+ "PGN610": {
+  "brand": "Condor",
+  "name": "Plume P8 Lite"
+ },
+ "PGN611": {
+  "brand": "Condor",
+  "name": "PGN611"
+ },
+ "PGN612": {
+  "brand": "Condor",
+  "name": "Plume A8 Plus"
+ },
+ "PHQ525": {
+  "brand": "Condor",
+  "name": "PHQ525"
+ },
+ "PGN527": {
+  "brand": "Condor",
+  "name": "Plume P4 Plus"
+ },
+ "PGN528": {
+  "brand": "Condor",
+  "name": "Plume P6 Pro LTE"
+ },
+ "KB1008": {
+  "brand": "Evermyth",
+  "name": "KB1008_EEA"
+ },
+ "KB1009": {
+  "brand": "Evermyth",
+  "name": "KB1009_EEA"
+ },
+ "PAD10": {
+  "brand": "G-Tab",
+  "name": "PAD10"
+ },
+ "PAD11": {
+  "brand": "G-Tab",
+  "name": "PAD11"
+ },
+ "PAD712": {
+  "brand": "Haier",
+  "name": "PAD712"
+ },
+ "PAD722": {
+  "brand": "Haier",
+  "name": "PAD722"
+ },
+ "PAD841": {
+  "brand": "Haier",
+  "name": "PAD841"
+ },
+ "PDC550": {
+  "brand": "Hytera",
+  "name": "PDC550"
+ },
+ "PDC680": {
+  "brand": "Hytera",
+  "name": "PDC680"
+ },
+ "PDC760": {
+  "brand": "Hytera",
+  "name": "PDC760"
+ },
+ "PDM680": {
+  "brand": "Hytera",
+  "name": "PDM680"
+ },
+ "PNC460": {
+  "brand": "Hytera",
+  "name": "PNC460_TR"
+ },
+ "PNC550": {
+  "brand": "Hytera",
+  "name": "PNC550_P_TU"
+ },
+ "PNC560": {
+  "brand": "Hytera",
+  "name": "PNC560"
+ },
+ "PNC660": {
+  "brand": "Hytera",
+  "name": "PNC660"
+ },
+ "PTC680": {
+  "brand": "Hytera",
+  "name": "PTC680"
+ },
+ "PTC760": {
+  "brand": "Hytera",
+  "name": "PTC760"
+ },
+ "LE5039": {
+  "brand": "Infocus",
+  "name": "MEGA 3"
+ },
+ "LE9910": {
+  "brand": "Lava",
+  "name": "V8"
+ },
+ "LE9920": {
+  "brand": "Lava",
+  "name": "Z53"
+ },
+ "PACE10": {
+  "brand": "ODYS",
+  "name": "PACE 10"
+ },
+ "CPH2717": {
+  "brand": "OnePlus",
+  "name": "Nord CE5"
+ },
+ "CPH2719": {
+  "brand": "OnePlus",
+  "name": "Nord CE5"
+ },
+ "NE2210": {
+  "brand": "OnePlus",
+  "name": "OnePlus 10 Pro"
+ },
+ "NE2211": {
+  "brand": "OnePlus",
+  "name": "OnePlus 10 Pro 5G"
+ },
+ "NE2213": {
+  "brand": "OnePlus",
+  "name": "OnePlus 10 Pro 5G"
+ },
+ "NE2215": {
+  "brand": "OnePlus",
+  "name": "OnePlus 10 Pro 5G"
+ },
+ "NE2217": {
+  "brand": "OnePlus",
+  "name": "OnePlus 10 Pro 5G"
+ },
+ "CPH2411": {
+  "brand": "OnePlus",
+  "name": "OnePlus 10R 5G"
+ },
+ "CPH2423": {
+  "brand": "OnePlus",
+  "name": "OnePlus 10R 5G"
+ },
+ "CPH2413": {
+  "brand": "OnePlus",
+  "name": "OnePlus 10T 5G"
+ },
+ "CPH2415": {
+  "brand": "OnePlus",
+  "name": "OnePlus 10T 5G"
+ },
+ "CPH2417": {
+  "brand": "OnePlus",
+  "name": "OnePlus 10T 5G"
+ },
+ "CPH2419": {
+  "brand": "OnePlus",
+  "name": "OnePlus 10T 5G"
+ },
+ "CPH2447": {
+  "brand": "OnePlus",
+  "name": "OnePlus 11 5G"
+ },
+ "CPH2449": {
+  "brand": "OnePlus",
+  "name": "OnePlus 11 5G"
+ },
+ "CPH2451": {
+  "brand": "OnePlus",
+  "name": "OnePlus 11 5G"
+ },
+ "PHB110": {
+  "brand": "OnePlus",
+  "name": "OnePlus 11 5G 中国版"
+ },
+ "CPH2487": {
+  "brand": "OnePlus",
+  "name": "OnePlus 11R 5G"
+ },
+ "PJD110": {
+  "brand": "OnePlus",
+  "name": "OnePlus 12"
+ },
+ "CPH2573": {
+  "brand": "OnePlus",
+  "name": "OnePlus 12"
+ },
+ "CPH2581": {
+  "brand": "OnePlus",
+  "name": "OnePlus 12"
+ },
+ "CPH2583": {
+  "brand": "OnePlus",
+  "name": "OnePlus 12"
+ },
+ "CPH2585": {
+  "brand": "OnePlus",
+  "name": "OnePlus 12R"
+ },
+ "CPH2609": {
+  "brand": "OnePlus",
+  "name": "OnePlus 12R"
+ },
+ "CPH2611": {
+  "brand": "OnePlus",
+  "name": "OnePlus 12R"
+ },
+ "PJZ110": {
+  "brand": "OnePlus",
+  "name": "OnePlus 13"
+ },
+ "CPH2649": {
+  "brand": "OnePlus",
+  "name": "OnePlus 13"
+ },
+ "CPH2653": {
+  "brand": "OnePlus",
+  "name": "OnePlus 13"
+ },
+ "CPH2655": {
+  "brand": "OnePlus",
+  "name": "OnePlus 13"
+ },
+ "CPH2645": {
+  "brand": "OnePlus",
+  "name": "OnePlus 13R"
+ },
+ "CPH2647": {
+  "brand": "OnePlus",
+  "name": "OnePlus 13R"
+ },
+ "CPH2691": {
+  "brand": "OnePlus",
+  "name": "OnePlus 13R"
+ },
+ "PKX110": {
+  "brand": "OnePlus",
+  "name": "OnePlus 13T"
+ },
+ "CPH2723": {
+  "brand": "OnePlus",
+  "name": "OnePlus 13s"
+ },
+ "PLK110": {
+  "brand": "OnePlus",
+  "name": "OnePlus 15"
+ },
+ "CPH2745": {
+  "brand": "OnePlus",
+  "name": "OnePlus 15"
+ },
+ "CPH2747": {
+  "brand": "OnePlus",
+  "name": "OnePlus 15"
+ },
+ "CPH2749": {
+  "brand": "OnePlus",
+  "name": "OnePlus 15"
+ },
+ "CPH2767": {
+  "brand": "OnePlus",
+  "name": "OnePlus 15R"
+ },
+ "CPH2769": {
+  "brand": "OnePlus",
+  "name": "OnePlus 15R"
+ },
+ "CPH2771": {
+  "brand": "OnePlus",
+  "name": "OnePlus 15R"
+ },
+ "PLZ110": {
+  "brand": "OnePlus",
+  "name": "OnePlus 15T"
+ },
+ "PYB110": {
+  "brand": "OnePlus",
+  "name": "OnePlus 16"
+ },
+ "GM1900": {
+  "brand": "OnePlus",
+  "name": "OnePlus 7"
+ },
+ "GM1901": {
+  "brand": "OnePlus",
+  "name": "OnePlus 7"
+ },
+ "GM1903": {
+  "brand": "OnePlus",
+  "name": "OnePlus 7"
+ },
+ "GM1905": {
+  "brand": "OnePlus",
+  "name": "OnePlus 7"
+ },
+ "GM1925": {
+  "brand": "OnePlus",
+  "name": "OnePlus 7 Pro"
+ },
+ "GM1910": {
+  "brand": "OnePlus",
+  "name": "OnePlus 7 Pro"
+ },
+ "GM1911": {
+  "brand": "OnePlus",
+  "name": "OnePlus 7 Pro"
+ },
+ "GM1913": {
+  "brand": "OnePlus",
+  "name": "OnePlus 7 Pro"
+ },
+ "GM1917": {
+  "brand": "OnePlus",
+  "name": "OnePlus 7 Pro"
+ },
+ "GM1915": {
+  "brand": "OnePlus",
+  "name": "OnePlus 7 Pro"
+ },
+ "GM1920": {
+  "brand": "OnePlus",
+  "name": "OnePlus 7 Pro 5G"
+ },
+ "HD1900": {
+  "brand": "OnePlus",
+  "name": "OnePlus 7T"
+ },
+ "HD1901": {
+  "brand": "OnePlus",
+  "name": "OnePlus 7T"
+ },
+ "HD1903": {
+  "brand": "OnePlus",
+  "name": "OnePlus 7T"
+ },
+ "HD1905": {
+  "brand": "OnePlus",
+  "name": "OnePlus 7T"
+ },
+ "HD1907": {
+  "brand": "OnePlus",
+  "name": "OnePlus 7T"
+ },
+ "HD1910": {
+  "brand": "OnePlus",
+  "name": "OnePlus 7T Pro"
+ },
+ "HD1911": {
+  "brand": "OnePlus",
+  "name": "OnePlus 7T Pro"
+ },
+ "HD1913": {
+  "brand": "OnePlus",
+  "name": "OnePlus 7T Pro"
+ },
+ "HD1925": {
+  "brand": "OnePlus",
+  "name": "OnePlus 7T Pro 5G"
+ },
+ "IN2010": {
+  "brand": "OnePlus",
+  "name": "OnePlus 8"
+ },
+ "IN2011": {
+  "brand": "OnePlus",
+  "name": "OnePlus 8"
+ },
+ "IN2013": {
+  "brand": "OnePlus",
+  "name": "OnePlus 8"
+ },
+ "IN2015": {
+  "brand": "OnePlus",
+  "name": "OnePlus 8 5G"
+ },
+ "IN2017": {
+  "brand": "OnePlus",
+  "name": "OnePlus 8 5G"
+ },
+ "IN2019": {
+  "brand": "OnePlus",
+  "name": "OnePlus 8 5G UW"
+ },
+ "IN2020": {
+  "brand": "OnePlus",
+  "name": "OnePlus 8 Pro"
+ },
+ "IN2021": {
+  "brand": "OnePlus",
+  "name": "OnePlus 8 Pro"
+ },
+ "IN2023": {
+  "brand": "OnePlus",
+  "name": "OnePlus 8 Pro"
+ },
+ "IN2025": {
+  "brand": "OnePlus",
+  "name": "OnePlus 8 Pro"
+ },
+ "KB2000": {
+  "brand": "OnePlus",
+  "name": "OnePlus 8T"
+ },
+ "KB2001": {
+  "brand": "OnePlus",
+  "name": "OnePlus 8T"
+ },
+ "KB2003": {
+  "brand": "OnePlus",
+  "name": "OnePlus 8T"
+ },
+ "KB2005": {
+  "brand": "OnePlus",
+  "name": "OnePlus 8T"
+ },
+ "KB2007": {
+  "brand": "OnePlus",
+  "name": "OnePlus 8T+ 5G"
+ },
+ "LE2110": {
+  "brand": "OnePlus",
+  "name": "OnePlus 9 5G"
+ },
+ "LE2111": {
+  "brand": "OnePlus",
+  "name": "OnePlus 9 5G"
+ },
+ "LE2113": {
+  "brand": "OnePlus",
+  "name": "OnePlus 9 5G"
+ },
+ "LE2115": {
+  "brand": "OnePlus",
+  "name": "OnePlus 9 5G"
+ },
+ "LE2117": {
+  "brand": "OnePlus",
+  "name": "OnePlus 9 5G"
+ },
+ "LE2120": {
+  "brand": "OnePlus",
+  "name": "OnePlus 9 Pro 5G"
+ },
+ "LE2121": {
+  "brand": "OnePlus",
+  "name": "OnePlus 9 Pro 5G"
+ },
+ "LE2123": {
+  "brand": "OnePlus",
+  "name": "OnePlus 9 Pro 5G"
+ },
+ "LE2125": {
+  "brand": "OnePlus",
+  "name": "OnePlus 9 Pro 5G"
+ },
+ "LE2127": {
+  "brand": "OnePlus",
+  "name": "OnePlus 9 Pro 5G"
+ },
+ "LE2100": {
+  "brand": "OnePlus",
+  "name": "OnePlus 9R"
+ },
+ "LE2101": {
+  "brand": "OnePlus",
+  "name": "OnePlus 9R"
+ },
+ "PGKM10": {
+  "brand": "OnePlus",
+  "name": "OnePlus Ace"
+ },
+ "PJE110": {
+  "brand": "OnePlus",
+  "name": "OnePlus Ace 3"
+ },
+ "PJF110": {
+  "brand": "OnePlus",
+  "name": "OnePlus Ace 3V"
+ },
+ "PKG110": {
+  "brand": "OnePlus",
+  "name": "OnePlus Ace 5"
+ },
+ "PKR110": {
+  "brand": "OnePlus",
+  "name": "OnePlus Ace 5 Pro"
+ },
+ "PLF110": {
+  "brand": "OnePlus",
+  "name": "OnePlus Ace 5 竞速版"
+ },
+ "PLC110": {
+  "brand": "OnePlus",
+  "name": "OnePlus Ace 5 至尊版"
+ },
+ "PLQ110": {
+  "brand": "OnePlus",
+  "name": "OnePlus Ace 6"
+ },
+ "PMB110": {
+  "brand": "OnePlus",
+  "name": "OnePlus Ace 6 至尊版"
+ },
+ "PYF110": {
+  "brand": "OnePlus",
+  "name": "OnePlus Ace 7"
+ },
+ "PMS110": {
+  "brand": "OnePlus",
+  "name": "OnePlus Ace 7 Pro"
+ },
+ "PGZ110": {
+  "brand": "OnePlus",
+  "name": "OnePlus Ace 竞速版"
+ },
+ "CPH2955": {
+  "brand": "OnePlus",
+  "name": "OnePlus N6"
+ },
+ "CPH2993": {
+  "brand": "OnePlus",
+  "name": "OnePlus N6 Lite"
+ },
+ "CPH2971": {
+  "brand": "OnePlus",
+  "name": "OnePlus N6x"
+ },
+ "CPH2399": {
+  "brand": "OnePlus",
+  "name": "OnePlus Nord 2T 5G"
+ },
+ "CPH2401": {
+  "brand": "OnePlus",
+  "name": "OnePlus Nord 2T 5G"
+ },
+ "CPH2491": {
+  "brand": "OnePlus",
+  "name": "OnePlus Nord 3 5G"
+ },
+ "CPH2493": {
+  "brand": "OnePlus",
+  "name": "OnePlus Nord 3 5G"
+ },
+ "CPH2661": {
+  "brand": "OnePlus",
+  "name": "OnePlus Nord 4"
+ },
+ "CPH2663": {
+  "brand": "OnePlus",
+  "name": "OnePlus Nord 4"
+ },
+ "CPH2707": {
+  "brand": "OnePlus",
+  "name": "OnePlus Nord 5"
+ },
+ "CPH2709": {
+  "brand": "OnePlus",
+  "name": "OnePlus Nord 5"
+ },
+ "CPH2793": {
+  "brand": "OnePlus",
+  "name": "OnePlus Nord 6"
+ },
+ "CPH2795": {
+  "brand": "OnePlus",
+  "name": "OnePlus Nord 6"
+ },
+ "CPH2381": {
+  "brand": "OnePlus",
+  "name": "OnePlus Nord CE 2 Lite 5G"
+ },
+ "CPH2409": {
+  "brand": "OnePlus",
+  "name": "OnePlus Nord CE 2 Lite 5G"
+ },
+ "CPH2465": {
+  "brand": "OnePlus",
+  "name": "OnePlus Nord CE 3 Lite 5G"
+ },
+ "CPH2467": {
+  "brand": "OnePlus",
+  "name": "OnePlus Nord CE 3 Lite 5G"
+ },
+ "CPH2613": {
+  "brand": "OnePlus",
+  "name": "OnePlus Nord CE4"
+ },
+ "CPH2619": {
+  "brand": "OnePlus",
+  "name": "OnePlus Nord CE4 Lite 5G"
+ },
+ "CPH2621": {
+  "brand": "OnePlus",
+  "name": "OnePlus Nord CE4 Lite 5G"
+ },
+ "CPH2805": {
+  "brand": "OnePlus",
+  "name": "OnePlus Nord CE6"
+ },
+ "CPH2807": {
+  "brand": "OnePlus",
+  "name": "OnePlus Nord CE6"
+ },
+ "CPH2943": {
+  "brand": "OnePlus",
+  "name": "OnePlus Nord CE6 Lite"
+ },
+ "CPH2459": {
+  "brand": "OnePlus",
+  "name": "OnePlus Nord N20 5G"
+ },
+ "CPH2513": {
+  "brand": "OnePlus",
+  "name": "OnePlus Nord N30 5G"
+ },
+ "CPH2515": {
+  "brand": "OnePlus",
+  "name": "OnePlus Nord N30 5G"
+ },
+ "CPH2605": {
+  "brand": "OnePlus",
+  "name": "OnePlus Nord N30 SE 5G"
+ },
+ "OPD2203": {
+  "brand": "OnePlus",
+  "name": "OnePlus Pad"
+ },
+ "OPD2407": {
+  "brand": "OnePlus",
+  "name": "OnePlus Pad"
+ },
+ "OPD2514": {
+  "brand": "OnePlus",
+  "name": "OnePlus Pad 4"
+ },
+ "OPD2304": {
+  "brand": "OnePlus",
+  "name": "OnePlus Pad Go"
+ },
+ "OPD2480": {
+  "brand": "OnePlus",
+  "name": "OnePlus Pad Lite"
+ },
+ "OPD2481": {
+  "brand": "OnePlus",
+  "name": "OnePlus Pad Lite"
+ },
+ "PLU110": {
+  "brand": "OnePlus",
+  "name": "OnePlus Turbo 6"
+ },
+ "PJA110": {
+  "brand": "OnePlus",
+  "name": "Oneplus Ace 2 Pro"
+ },
+ "PJX110": {
+  "brand": "OnePlus",
+  "name": "Oneplus Ace 3 Pro"
+ },
+ "OPD2403": {
+  "brand": "OnePlus",
+  "name": "Oneplus Pad2"
+ },
+ "CPH2551": {
+  "brand": "OnePlus",
+  "name": "Open"
+ },
+ "PHP110": {
+  "brand": "OnePlus",
+  "name": "PHP110"
+ },
+ "PLY110": {
+  "brand": "OnePlus",
+  "name": "PLY110"
+ },
+ "PYS110": {
+  "brand": "OnePlus",
+  "name": "PYS110"
+ },
+ "OPD2415": {
+  "brand": "OnePlus",
+  "name": "Pad 3"
+ },
+ "OPD2504": {
+  "brand": "OnePlus",
+  "name": "Pad Go 2"
+ },
+ "OPD2505": {
+  "brand": "OnePlus",
+  "name": "Pad Go 2"
+ },
+ "PLR110": {
+  "brand": "OnePlus",
+  "name": "一加 Ace 6T"
+ },
+ "PYR110": {
+  "brand": "OnePlus",
+  "name": "一加 Turbo 6X Pro"
+ },
+ "OPD2508": {
+  "brand": "OnePlus",
+  "name": "一加平板 2"
+ },
+ "OPD2413": {
+  "brand": "OnePlus",
+  "name": "一加平板 2 Pro"
+ },
+ "OPD2513": {
+  "brand": "OnePlus",
+  "name": "一加平板 3 Pro"
+ },
+ "OPD2404": {
+  "brand": "OnePlus",
+  "name": "一加平板Pro"
+ },
+ "PHQ110": {
+  "brand": "Oppo",
+  "name": "A1 Pro 5G"
+ },
+ "PCHM10": {
+  "brand": "Oppo",
+  "name": "A11 中国版"
+ },
+ "PCHT10": {
+  "brand": "Oppo",
+  "name": "A11 中国版"
+ },
+ "PCHM00": {
+  "brand": "Oppo",
+  "name": "A11n中国版"
+ },
+ "PCHM30": {
+  "brand": "Oppo",
+  "name": "A11x 中国版"
+ },
+ "PCHT30": {
+  "brand": "Oppo",
+  "name": "A11x 中国版"
+ },
+ "CPH2351": {
+  "brand": "Oppo",
+  "name": "A16K"
+ },
+ "CPH2477": {
+  "brand": "Oppo",
+  "name": "A17"
+ },
+ "CPH2471": {
+  "brand": "Oppo",
+  "name": "A17k"
+ },
+ "CPH2591": {
+  "brand": "Oppo",
+  "name": "OPPO A18"
+ },
+ "CPH1923": {
+  "brand": "Oppo",
+  "name": "A1k"
+ },
+ "PJB110": {
+  "brand": "Oppo",
+  "name": "A2 5G"
+ },
+ "PJS110": {
+  "brand": "Oppo",
+  "name": "A系列"
+ },
+ "CPH1837": {
+  "brand": "Oppo",
+  "name": "A3"
+ },
+ "CPH2669": {
+  "brand": "Oppo",
+  "name": "A40/A40m"
+ },
+ "CPH2693": {
+  "brand": "Oppo",
+  "name": "A3 5G"
+ },
+ "PKA110": {
+  "brand": "Oppo",
+  "name": "A3 5G/A3i Plus 5G"
+ },
+ "CPH2665": {
+  "brand": "Oppo",
+  "name": "A3 Pro 5G"
+ },
+ "CPH2639": {
+  "brand": "Oppo",
+  "name": "A80 5G"
+ },
+ "PDVM00": {
+  "brand": "Oppo",
+  "name": "A32 中国版"
+ },
+ "CPH2579": {
+  "brand": "Oppo",
+  "name": "OPPO A38"
+ },
+ "PKL110": {
+  "brand": "Oppo",
+  "name": "A3i 5G"
+ },
+ "PKD120": {
+  "brand": "Oppo",
+  "name": "A3m 5G"
+ },
+ "CPH1803": {
+  "brand": "Oppo",
+  "name": "CPH1803RU"
+ },
+ "CPH1853": {
+  "brand": "Oppo",
+  "name": "CPH1853"
+ },
+ "CPH2641": {
+  "brand": "Oppo",
+  "name": "A3x/A20"
+ },
+ "PKD130": {
+  "brand": "Oppo",
+  "name": "A3x 5G"
+ },
+ "CPH2681": {
+  "brand": "Oppo",
+  "name": "A3x 5G"
+ },
+ "PADM00": {
+  "brand": "Oppo",
+  "name": "A3中国版"
+ },
+ "PADT00": {
+  "brand": "Oppo",
+  "name": "A3中国版"
+ },
+ "PKD110": {
+  "brand": "Oppo",
+  "name": "A3活力版 5G"
+ },
+ "CPH1809": {
+  "brand": "Oppo",
+  "name": "A5"
+ },
+ "PBAM00": {
+  "brand": "Oppo",
+  "name": "A5"
+ },
+ "PBAT00": {
+  "brand": "Oppo",
+  "name": "A5"
+ },
+ "PBBM30": {
+  "brand": "Oppo",
+  "name": "A5"
+ },
+ "PBBT30": {
+  "brand": "Oppo",
+  "name": "A5"
+ },
+ "CPH1931": {
+  "brand": "Oppo",
+  "name": "A5 2020"
+ },
+ "CPH1933": {
+  "brand": "Oppo",
+  "name": "A5 2020"
+ },
+ "CPH1943": {
+  "brand": "Oppo",
+  "name": "A5 2020"
+ },
+ "CPH2735": {
+  "brand": "Oppo",
+  "name": "A5 5G"
+ },
+ "CPH2751": {
+  "brand": "Oppo",
+  "name": "A5 5G"
+ },
+ "CPH2711": {
+  "brand": "Oppo",
+  "name": "A5 Pro"
+ },
+ "PKP110": {
+  "brand": "Oppo",
+  "name": "A5 Pro 5G"
+ },
+ "CPH2695": {
+  "brand": "Oppo",
+  "name": "A5 Pro 5G"
+ },
+ "PKV110": {
+  "brand": "Oppo",
+  "name": "A5 活力版 5G/K13x 5G"
+ },
+ "CPH2727": {
+  "brand": "Oppo",
+  "name": "A5/A5m"
+ },
+ "CPH2061": {
+  "brand": "Oppo",
+  "name": "A52"
+ },
+ "CPH2069": {
+  "brand": "Oppo",
+  "name": "A52"
+ },
+ "PDAM10": {
+  "brand": "Oppo",
+  "name": "A52 中国版"
+ },
+ "PDAT10": {
+  "brand": "Oppo",
+  "name": "A52 中国版"
+ },
+ "CPH2127": {
+  "brand": "Oppo",
+  "name": "A53"
+ },
+ "CPH2131": {
+  "brand": "Oppo",
+  "name": "A53"
+ },
+ "CPH2133": {
+  "brand": "Oppo",
+  "name": "A53"
+ },
+ "CPH2139": {
+  "brand": "Oppo",
+  "name": "A53"
+ },
+ "PECM20": {
+  "brand": "Oppo",
+  "name": "A53 5G"
+ },
+ "CPH2135": {
+  "brand": "Oppo",
+  "name": "A53s"
+ },
+ "CPH2303": {
+  "brand": "Oppo",
+  "name": "A54 5G"
+ },
+ "PEMM00": {
+  "brand": "Oppo",
+  "name": "A55 5G"
+ },
+ "PEMT00": {
+  "brand": "Oppo",
+  "name": "A55 5G"
+ },
+ "PEMT20": {
+  "brand": "Oppo",
+  "name": "A55 5G"
+ },
+ "CPH2387": {
+  "brand": "Oppo",
+  "name": "CPH2387"
+ },
+ "CPH2407": {
+  "brand": "Oppo",
+  "name": "CPH2407"
+ },
+ "CPH2385": {
+  "brand": "Oppo",
+  "name": "OPPO A57s"
+ },
+ "CPH2577": {
+  "brand": "Oppo",
+  "name": "A58"
+ },
+ "CPH2617": {
+  "brand": "Oppo",
+  "name": "A59 5G"
+ },
+ "CPH2755": {
+  "brand": "Oppo",
+  "name": "A5i Pro"
+ },
+ "CPH2821": {
+  "brand": "Oppo",
+  "name": "A5i Pro 5G"
+ },
+ "CPH2759": {
+  "brand": "Oppo",
+  "name": "A5m"
+ },
+ "CPH2725": {
+  "brand": "Oppo",
+  "name": "A5x"
+ },
+ "CPH2733": {
+  "brand": "Oppo",
+  "name": "A5x 5G"
+ },
+ "CPH2817": {
+  "brand": "Oppo",
+  "name": "A6"
+ },
+ "PLS120": {
+  "brand": "Oppo",
+  "name": "A6 5G"
+ },
+ "CPH2785": {
+  "brand": "Oppo",
+  "name": "A6 5G"
+ },
+ "CPH2831": {
+  "brand": "Oppo",
+  "name": "A6 5G"
+ },
+ "CPH2799": {
+  "brand": "Oppo",
+  "name": "A6 Pro"
+ },
+ "PLN110": {
+  "brand": "Oppo",
+  "name": "A6 Pro 5G"
+ },
+ "CPH2827": {
+  "brand": "Oppo",
+  "name": "A6 Pro 5G"
+ },
+ "CPH2631": {
+  "brand": "Oppo",
+  "name": "A60"
+ },
+ "CPH3669": {
+  "brand": "Oppo",
+  "name": "A60"
+ },
+ "CPH2683": {
+  "brand": "Oppo",
+  "name": "OPPO A60 5G/ A3 5G"
+ },
+ "PMC110": {
+  "brand": "Oppo",
+  "name": "A6c"
+ },
+ "CPH2895": {
+  "brand": "Oppo",
+  "name": "A6c"
+ },
+ "CPH2891": {
+  "brand": "Oppo",
+  "name": "A6k"
+ },
+ "CPH2815": {
+  "brand": "Oppo",
+  "name": "A6s"
+ },
+ "CPH2789": {
+  "brand": "Oppo",
+  "name": "A6s 5G"
+ },
+ "CPH2889": {
+  "brand": "Oppo",
+  "name": "A6s 5G"
+ },
+ "PMT110": {
+  "brand": "Oppo",
+  "name": "A6s Pro 5G"
+ },
+ "CPH2847": {
+  "brand": "Oppo",
+  "name": "A6t"
+ },
+ "CPH2853": {
+  "brand": "Oppo",
+  "name": "A6t 5G"
+ },
+ "CPH2849": {
+  "brand": "Oppo",
+  "name": "A6t Pro"
+ },
+ "CPH2851": {
+  "brand": "Oppo",
+  "name": "A6t Pro 5G"
+ },
+ "CPH2819": {
+  "brand": "Oppo",
+  "name": "A6x"
+ },
+ "CPH2783": {
+  "brand": "Oppo",
+  "name": "A6x 5G"
+ },
+ "CPH2823": {
+  "brand": "Oppo",
+  "name": "A6x 5G"
+ },
+ "CPH1901": {
+  "brand": "Oppo",
+  "name": "A7"
+ },
+ "CPH1905": {
+  "brand": "Oppo",
+  "name": "A7"
+ },
+ "PBFM00": {
+  "brand": "Oppo",
+  "name": "A7"
+ },
+ "PBFT00": {
+  "brand": "Oppo",
+  "name": "A7"
+ },
+ "PYE110": {
+  "brand": "Oppo",
+  "name": "A7 Pro 5G"
+ },
+ "CPH2931": {
+  "brand": "Oppo",
+  "name": "F35 5G"
+ },
+ "CPH2909": {
+  "brand": "Oppo",
+  "name": "A7 Pro Max 5G"
+ },
+ "CPH2067": {
+  "brand": "Oppo",
+  "name": "A72"
+ },
+ "CPH2219": {
+  "brand": "Oppo",
+  "name": "CPH2219"
+ },
+ "CPH2339": {
+  "brand": "Oppo",
+  "name": "A77 5G"
+ },
+ "CPH2565": {
+  "brand": "Oppo",
+  "name": "A78"
+ },
+ "CPH2483": {
+  "brand": "Oppo",
+  "name": "A78 5G"
+ },
+ "CPH2495": {
+  "brand": "Oppo",
+  "name": "A78 5G"
+ },
+ "CPH2553": {
+  "brand": "Oppo",
+  "name": "A79 5G"
+ },
+ "CPH2557": {
+  "brand": "Oppo",
+  "name": "A79 5G"
+ },
+ "PCDT00": {
+  "brand": "Oppo",
+  "name": "A7n"
+ },
+ "PBBM00": {
+  "brand": "Oppo",
+  "name": "A7x 中国版"
+ },
+ "PBBT00": {
+  "brand": "Oppo",
+  "name": "A7x 中国版"
+ },
+ "CPH1937": {
+  "brand": "Oppo",
+  "name": "A9 2020"
+ },
+ "CPH1941": {
+  "brand": "Oppo",
+  "name": "A9 2020"
+ },
+ "PCAM10": {
+  "brand": "Oppo",
+  "name": "A9 中国版"
+ },
+ "PCAT10": {
+  "brand": "Oppo",
+  "name": "A9 中国版"
+ },
+ "PCPM00": {
+  "brand": "Oppo",
+  "name": "A91"
+ },
+ "CPH2059": {
+  "brand": "Oppo",
+  "name": "A92"
+ },
+ "CPH2121": {
+  "brand": "Oppo",
+  "name": "A93"
+ },
+ "CPH2123": {
+  "brand": "Oppo",
+  "name": "A93"
+ },
+ "PEHM00": {
+  "brand": "Oppo",
+  "name": "A93 5G"
+ },
+ "CPH2203": {
+  "brand": "Oppo",
+  "name": "A94"
+ },
+ "PFUM10": {
+  "brand": "Oppo",
+  "name": "A96 5G"
+ },
+ "CPH2529": {
+  "brand": "Oppo",
+  "name": "A98 5G"
+ },
+ "PCEM00": {
+  "brand": "Oppo",
+  "name": "A9x"
+ },
+ "PCET00": {
+  "brand": "Oppo",
+  "name": "A9x"
+ },
+ "CPH1920": {
+  "brand": "Oppo",
+  "name": "AX5s"
+ },
+ "CPH1903": {
+  "brand": "Oppo",
+  "name": "CPH1903"
+ },
+ "PJU110": {
+  "brand": "Oppo",
+  "name": "A系列"
+ },
+ "CPH1605": {
+  "brand": "Oppo",
+  "name": "CPH1605"
+ },
+ "CPH1609": {
+  "brand": "Oppo",
+  "name": "CPH1609"
+ },
+ "CPH1613": {
+  "brand": "Oppo",
+  "name": "CPH1613"
+ },
+ "CPH1701": {
+  "brand": "Oppo",
+  "name": "CPH1701"
+ },
+ "CPH1705": {
+  "brand": "Oppo",
+  "name": "CPH1705"
+ },
+ "CPH1707": {
+  "brand": "Oppo",
+  "name": "CPH1707"
+ },
+ "CPH1715": {
+  "brand": "Oppo",
+  "name": "CPH1715"
+ },
+ "CPH1717": {
+  "brand": "Oppo",
+  "name": "CPH1717"
+ },
+ "CPH1719": {
+  "brand": "Oppo",
+  "name": "CPH1719"
+ },
+ "CPH1721": {
+  "brand": "Oppo",
+  "name": "CPH1721"
+ },
+ "CPH1723": {
+  "brand": "Oppo",
+  "name": "CPH1723"
+ },
+ "CPH1725": {
+  "brand": "Oppo",
+  "name": "CPH1725"
+ },
+ "CPH1727": {
+  "brand": "Oppo",
+  "name": "CPH1727"
+ },
+ "CPH1729": {
+  "brand": "Oppo",
+  "name": "CPH1729"
+ },
+ "CPH1801": {
+  "brand": "Oppo",
+  "name": "CPH1801"
+ },
+ "CPH1805": {
+  "brand": "Oppo",
+  "name": "CPH1805"
+ },
+ "CPH1807": {
+  "brand": "Oppo",
+  "name": "CPH1807"
+ },
+ "CPH1808": {
+  "brand": "Oppo",
+  "name": "CPH1808"
+ },
+ "CPH1827": {
+  "brand": "Oppo",
+  "name": "CPH1827"
+ },
+ "CPH1851": {
+  "brand": "Oppo",
+  "name": "CPH1851"
+ },
+ "CPH1893": {
+  "brand": "Oppo",
+  "name": "CPH1893RU"
+ },
+ "CPH1907": {
+  "brand": "Oppo",
+  "name": "Reno 2"
+ },
+ "CPH1909": {
+  "brand": "Oppo",
+  "name": "CPH1909"
+ },
+ "CPH1938": {
+  "brand": "Oppo",
+  "name": "CPH1938"
+ },
+ "CPH1989": {
+  "brand": "Oppo",
+  "name": "CPH1989"
+ },
+ "CPH2001": {
+  "brand": "Oppo",
+  "name": "CPH2001"
+ },
+ "CPH2015": {
+  "brand": "Oppo",
+  "name": "CPH2015"
+ },
+ "CPH2021": {
+  "brand": "Oppo",
+  "name": "CPH2021"
+ },
+ "CPH2031": {
+  "brand": "Oppo",
+  "name": "CPH2031"
+ },
+ "CPH2043": {
+  "brand": "Oppo",
+  "name": "Reno3"
+ },
+ "CPH2071": {
+  "brand": "Oppo",
+  "name": "CPH2071"
+ },
+ "CPH2073": {
+  "brand": "Oppo",
+  "name": "CPH2073"
+ },
+ "CPH2077": {
+  "brand": "Oppo",
+  "name": "CPH2077"
+ },
+ "CPH2081": {
+  "brand": "Oppo",
+  "name": "CPH2081"
+ },
+ "CPH2083": {
+  "brand": "Oppo",
+  "name": "CPH2083"
+ },
+ "CPH2095": {
+  "brand": "Oppo",
+  "name": "CPH2095"
+ },
+ "CPH2109": {
+  "brand": "Oppo",
+  "name": "CPH2109"
+ },
+ "CPH2113": {
+  "brand": "Oppo",
+  "name": "CPH2113"
+ },
+ "CPH2145": {
+  "brand": "Oppo",
+  "name": "CPH2145"
+ },
+ "CPH2159": {
+  "brand": "Oppo",
+  "name": "Reno5"
+ },
+ "CPH2161": {
+  "brand": "Oppo",
+  "name": "CPH2161"
+ },
+ "CPH2173": {
+  "brand": "Oppo",
+  "name": "Find X3 Pro"
+ },
+ "CPH2179": {
+  "brand": "Oppo",
+  "name": "CPH2179"
+ },
+ "CPH2185": {
+  "brand": "Oppo",
+  "name": "CPH2185"
+ },
+ "CPH2195": {
+  "brand": "Oppo",
+  "name": "CPH2195"
+ },
+ "CPH2197": {
+  "brand": "Oppo",
+  "name": "OPPO A74 5G"
+ },
+ "CPH2201": {
+  "brand": "Oppo",
+  "name": "OPPO Reno5 pro"
+ },
+ "CPH2207": {
+  "brand": "Oppo",
+  "name": "CPH2207"
+ },
+ "CPH2211": {
+  "brand": "Oppo",
+  "name": "CPH2211"
+ },
+ "CPH2213": {
+  "brand": "Oppo",
+  "name": "CPH2213"
+ },
+ "CPH2223": {
+  "brand": "Oppo",
+  "name": "CPH2223"
+ },
+ "CPH2235": {
+  "brand": "Oppo",
+  "name": "CPH2235"
+ },
+ "CPH2237": {
+  "brand": "Oppo",
+  "name": "OPPO Reno6 Z 5G"
+ },
+ "CPH2239": {
+  "brand": "Oppo",
+  "name": "CPH2239"
+ },
+ "CPH2241": {
+  "brand": "Oppo",
+  "name": "CPH2241"
+ },
+ "CPH2247": {
+  "brand": "Oppo",
+  "name": "CPH2247"
+ },
+ "CPH2249": {
+  "brand": "Oppo",
+  "name": "CPH2249"
+ },
+ "CPH2251": {
+  "brand": "Oppo",
+  "name": "CPH2251"
+ },
+ "CPH2263": {
+  "brand": "Oppo",
+  "name": "CPH2263"
+ },
+ "CPH2269": {
+  "brand": "Oppo",
+  "name": "CPH2269"
+ },
+ "CPH2271": {
+  "brand": "Oppo",
+  "name": "CPH2271"
+ },
+ "CPH2273": {
+  "brand": "Oppo",
+  "name": "CPH2273"
+ },
+ "CPH2275": {
+  "brand": "Oppo",
+  "name": "CPH2275"
+ },
+ "CPH2293": {
+  "brand": "Oppo",
+  "name": "CPH2293"
+ },
+ "CPH2309": {
+  "brand": "Oppo",
+  "name": "CPH2309"
+ },
+ "CPH2325": {
+  "brand": "Oppo",
+  "name": "CPH2325"
+ },
+ "CPH2365": {
+  "brand": "Oppo",
+  "name": "CPH2365"
+ },
+ "CPH2421": {
+  "brand": "Oppo",
+  "name": "CPH2421"
+ },
+ "CPH2455": {
+  "brand": "Oppo",
+  "name": "CPH2455"
+ },
+ "CPH2457": {
+  "brand": "Oppo",
+  "name": "CPH2457"
+ },
+ "CPH2461": {
+  "brand": "Oppo",
+  "name": "CPH2461"
+ },
+ "CPH2473": {
+  "brand": "Oppo",
+  "name": "CPH2473"
+ },
+ "CPH2527": {
+  "brand": "Oppo",
+  "name": "CPH2527"
+ },
+ "CPH1911": {
+  "brand": "Oppo",
+  "name": "F11"
+ },
+ "CPH1913": {
+  "brand": "Oppo",
+  "name": "F11"
+ },
+ "CPH1915": {
+  "brand": "Oppo",
+  "name": "F11"
+ },
+ "CPH1969": {
+  "brand": "Oppo",
+  "name": "F11 Pro"
+ },
+ "CPH1987": {
+  "brand": "Oppo",
+  "name": "F11 Pro"
+ },
+ "CPH2119": {
+  "brand": "Oppo",
+  "name": "F17 Pro"
+ },
+ "CPH2285": {
+  "brand": "Oppo",
+  "name": "F19 Pro"
+ },
+ "CPH2603": {
+  "brand": "Oppo",
+  "name": "Reno11 F 5G/Reno11 A"
+ },
+ "CPH2705": {
+  "brand": "Oppo",
+  "name": "F29 Pro 5G"
+ },
+ "CPH2763": {
+  "brand": "Oppo",
+  "name": "F31 Pro 5G"
+ },
+ "CPH2757": {
+  "brand": "Oppo",
+  "name": "F31 Pro+ 5G"
+ },
+ "CPH2777": {
+  "brand": "Oppo",
+  "name": "F33 5G"
+ },
+ "CPH2835": {
+  "brand": "Oppo",
+  "name": "F33 Pro 5G"
+ },
+ "CPH2829": {
+  "brand": "Oppo",
+  "name": "F35 Pro 5G"
+ },
+ "CPH1819": {
+  "brand": "Oppo",
+  "name": "F7"
+ },
+ "CPH1821": {
+  "brand": "Oppo",
+  "name": "F7"
+ },
+ "CPH1823": {
+  "brand": "Oppo",
+  "name": "F9"
+ },
+ "CPH1825": {
+  "brand": "Oppo",
+  "name": "F9"
+ },
+ "CPH1881": {
+  "brand": "Oppo",
+  "name": "F9"
+ },
+ "PEUM00": {
+  "brand": "Oppo",
+  "name": "Find N"
+ },
+ "CPH2437": {
+  "brand": "Oppo",
+  "name": "Find N2 Flip"
+ },
+ "PGT110": {
+  "brand": "Oppo",
+  "name": "Find N2 Flip 中国版"
+ },
+ "PHN110": {
+  "brand": "Oppo",
+  "name": "Find N3"
+ },
+ "CPH2499": {
+  "brand": "Oppo",
+  "name": "Find N3"
+ },
+ "PHT110": {
+  "brand": "Oppo",
+  "name": "Find N3 Flip"
+ },
+ "CPH2519": {
+  "brand": "Oppo",
+  "name": "Find N3 Flip"
+ },
+ "PKH110": {
+  "brand": "Oppo",
+  "name": "Find N5"
+ },
+ "CPH2671": {
+  "brand": "Oppo",
+  "name": "Find N5"
+ },
+ "PKH120": {
+  "brand": "Oppo",
+  "name": "Find N5 卫星通信版"
+ },
+ "PLP110": {
+  "brand": "Oppo",
+  "name": "Find N6"
+ },
+ "CPH2765": {
+  "brand": "Oppo",
+  "name": "Find N6"
+ },
+ "PLP120": {
+  "brand": "Oppo",
+  "name": "Find N6 卫星通信版"
+ },
+ "CPH1871": {
+  "brand": "Oppo",
+  "name": "Find X"
+ },
+ "CPH1875": {
+  "brand": "Oppo",
+  "name": "Find X"
+ },
+ "PAFM00": {
+  "brand": "Oppo",
+  "name": "Find X"
+ },
+ "PAFT00": {
+  "brand": "Oppo",
+  "name": "Find X"
+ },
+ "PAHM00": {
+  "brand": "Oppo",
+  "name": "Find X 兰博基尼"
+ },
+ "PMW110": {
+  "brand": "Oppo",
+  "name": "Find X10"
+ },
+ "CPH2911": {
+  "brand": "Oppo",
+  "name": "Find X10"
+ },
+ "PNA110": {
+  "brand": "Oppo",
+  "name": "Find X10 E"
+ },
+ "PMX110": {
+  "brand": "Oppo",
+  "name": "Find X10 Pro Max"
+ },
+ "CPH2913": {
+  "brand": "Oppo",
+  "name": "Find X10 Pro Max"
+ },
+ "CPH2023": {
+  "brand": "Oppo",
+  "name": "Find X2"
+ },
+ "CPH2005": {
+  "brand": "Oppo",
+  "name": "Find X2 Lite"
+ },
+ "CPH2009": {
+  "brand": "Oppo",
+  "name": "Reno3 Pro"
+ },
+ "CPH2025": {
+  "brand": "Oppo",
+  "name": "Find X2 Pro"
+ },
+ "PDEM30": {
+  "brand": "Oppo",
+  "name": "Find X2 Pro 中国版"
+ },
+ "PDEM10": {
+  "brand": "Oppo",
+  "name": "Find X2 中国版"
+ },
+ "PDET10": {
+  "brand": "Oppo",
+  "name": "Find X2 中国版"
+ },
+ "PEEM00": {
+  "brand": "Oppo",
+  "name": "Find X3 Pro 中国版"
+ },
+ "PEDM00": {
+  "brand": "Oppo",
+  "name": "Find X3 中国版"
+ },
+ "CPH2307": {
+  "brand": "Oppo",
+  "name": "Find X5"
+ },
+ "CPH2305": {
+  "brand": "Oppo",
+  "name": "Find X5 Pro"
+ },
+ "PGFM10": {
+  "brand": "Oppo",
+  "name": "Find X6"
+ },
+ "PGEM10": {
+  "brand": "Oppo",
+  "name": "Find X6 Pro"
+ },
+ "PHZ110": {
+  "brand": "Oppo",
+  "name": "Find X7"
+ },
+ "PHY110": {
+  "brand": "Oppo",
+  "name": "Find X7 Ultra"
+ },
+ "PHY120": {
+  "brand": "Oppo",
+  "name": "Find X7 Ultra 卫星通信版"
+ },
+ "PKB110": {
+  "brand": "Oppo",
+  "name": "Find X8"
+ },
+ "CPH2651": {
+  "brand": "Oppo",
+  "name": "Find X8"
+ },
+ "PKC110": {
+  "brand": "Oppo",
+  "name": "Find X8 Pro"
+ },
+ "CPH2659": {
+  "brand": "Oppo",
+  "name": "Find X8 Pro"
+ },
+ "PKC130": {
+  "brand": "Oppo",
+  "name": "Find X8 Pro 卫星通信版"
+ },
+ "PKJ110": {
+  "brand": "Oppo",
+  "name": "Find X8 Ultra"
+ },
+ "PKU110": {
+  "brand": "Oppo",
+  "name": "Find X8 Ultra 卫星通信版"
+ },
+ "PKT110": {
+  "brand": "Oppo",
+  "name": "Find X8s"
+ },
+ "PLB110": {
+  "brand": "Oppo",
+  "name": "Find X8s+"
+ },
+ "PLJ110": {
+  "brand": "Oppo",
+  "name": "Find X9"
+ },
+ "CPH2797": {
+  "brand": "Oppo",
+  "name": "Find X9"
+ },
+ "PLG110": {
+  "brand": "Oppo",
+  "name": "Find X9 Pro"
+ },
+ "CPH2791": {
+  "brand": "Oppo",
+  "name": "Find X9 Pro"
+ },
+ "PLG120": {
+  "brand": "Oppo",
+  "name": "Find X9 Pro 卫星通信版"
+ },
+ "PMA110": {
+  "brand": "Oppo",
+  "name": "Find X9 Ultra"
+ },
+ "CPH2841": {
+  "brand": "Oppo",
+  "name": "Find X9 Ultra"
+ },
+ "PMA120": {
+  "brand": "Oppo",
+  "name": "Find X9 Ultra 卫星通信版"
+ },
+ "CPH2873": {
+  "brand": "Oppo",
+  "name": "Find X9s"
+ },
+ "PME110": {
+  "brand": "Oppo",
+  "name": "Find X9s Pro"
+ },
+ "PBCM30": {
+  "brand": "Oppo",
+  "name": "K1"
+ },
+ "PJR110": {
+  "brand": "Oppo",
+  "name": "K12 5G"
+ },
+ "PKS110": {
+  "brand": "Oppo",
+  "name": "K12 Plus"
+ },
+ "PLD110": {
+  "brand": "Oppo",
+  "name": "K12s 5G"
+ },
+ "PJT110": {
+  "brand": "Oppo",
+  "name": "K12x 5G"
+ },
+ "CPH2667": {
+  "brand": "Oppo",
+  "name": "K12x 5G"
+ },
+ "CPH2729": {
+  "brand": "Oppo",
+  "name": "K13 5G"
+ },
+ "PLM110": {
+  "brand": "Oppo",
+  "name": "K13 Turbo 5G"
+ },
+ "CPH2761": {
+  "brand": "Oppo",
+  "name": "K13 Turbo 5G"
+ },
+ "PLE110": {
+  "brand": "Oppo",
+  "name": "K13 Turbo Pro 5G"
+ },
+ "CPH2731": {
+  "brand": "Oppo",
+  "name": "K13 Turbo Pro 5G"
+ },
+ "CPH2753": {
+  "brand": "Oppo",
+  "name": "K13x 5G"
+ },
+ "CPH2869": {
+  "brand": "Oppo",
+  "name": "K14 5G"
+ },
+ "CPH3007": {
+  "brand": "Oppo",
+  "name": "K14 Lite"
+ },
+ "CPH3009": {
+  "brand": "Oppo",
+  "name": "K14 Plus 5G"
+ },
+ "CPH2871": {
+  "brand": "Oppo",
+  "name": "K14x 5G"
+ },
+ "PMH110": {
+  "brand": "Oppo",
+  "name": "K15 Pro"
+ },
+ "PMG110": {
+  "brand": "Oppo",
+  "name": "K15 Pro+"
+ },
+ "PYE130": {
+  "brand": "Oppo",
+  "name": "K15s"
+ },
+ "PCGM00": {
+  "brand": "Oppo",
+  "name": "K3"
+ },
+ "PCGT00": {
+  "brand": "Oppo",
+  "name": "K3"
+ },
+ "CPH1955": {
+  "brand": "Oppo",
+  "name": "K3"
+ },
+ "PCNM00": {
+  "brand": "Oppo",
+  "name": "K5"
+ },
+ "PERM00": {
+  "brand": "Oppo",
+  "name": "K7x 中国版"
+ },
+ "PHS110": {
+  "brand": "Oppo",
+  "name": "OPPO A1 5G"
+ },
+ "PJY110": {
+  "brand": "Oppo",
+  "name": "OPPO A3 Pro 5G/OPPO A5 Plus 5G"
+ },
+ "CPH2137": {
+  "brand": "Oppo",
+  "name": "OPPO A33"
+ },
+ "PEFM00": {
+  "brand": "Oppo",
+  "name": "OPPO A35"
+ },
+ "PKQ110": {
+  "brand": "Oppo",
+  "name": "OPPO A5 5G"
+ },
+ "PECM30": {
+  "brand": "Oppo",
+  "name": "OPPO A53 5G"
+ },
+ "PECT30": {
+  "brand": "Oppo",
+  "name": "OPPO A53 5G"
+ },
+ "CPH2321": {
+  "brand": "Oppo",
+  "name": "OPPO A53s 5G"
+ },
+ "PEZM00": {
+  "brand": "Oppo",
+  "name": "OPPO A54"
+ },
+ "CPH2773": {
+  "brand": "Oppo",
+  "name": "OPPO A5i"
+ },
+ "PKW110": {
+  "brand": "Oppo",
+  "name": "OPPO A5x 5G"
+ },
+ "CPH2781": {
+  "brand": "Oppo",
+  "name": "OPPO F31 5G"
+ },
+ "PKW120": {
+  "brand": "Oppo",
+  "name": "OPPO A6i 5G"
+ },
+ "PELM00": {
+  "brand": "Oppo",
+  "name": "OPPO A95 5G"
+ },
+ "CPH2341": {
+  "brand": "Oppo",
+  "name": "OPPO F21 Pro 5G"
+ },
+ "CPH2643": {
+  "brand": "Oppo",
+  "name": "OPPO F27 Pro+ 5G"
+ },
+ "CPH2721": {
+  "brand": "Oppo",
+  "name": "OPPO F29 5G"
+ },
+ "PJC110": {
+  "brand": "Oppo",
+  "name": "OPPO K11 5G"
+ },
+ "PHF110": {
+  "brand": "Oppo",
+  "name": "OPPO K11x 5G"
+ },
+ "PYD110": {
+  "brand": "Oppo",
+  "name": "OPPO K15"
+ },
+ "OPD2101": {
+  "brand": "Oppo",
+  "name": "OPPO Pad"
+ },
+ "OPD2201": {
+  "brand": "Oppo",
+  "name": "OPPO Pad 2"
+ },
+ "OPD2202": {
+  "brand": "Oppo",
+  "name": "OPPO Pad 2"
+ },
+ "OPD2405": {
+  "brand": "Oppo",
+  "name": "OPPO Pad 3"
+ },
+ "OPD2406": {
+  "brand": "Oppo",
+  "name": "OPPO Pad 3"
+ },
+ "OPD2401": {
+  "brand": "Oppo",
+  "name": "OPPO Pad 3 Pro"
+ },
+ "OPD2402": {
+  "brand": "Oppo",
+  "name": "OPPO Pad 3 Pro"
+ },
+ "OPD2506": {
+  "brand": "Oppo",
+  "name": "OPPO Pad 5"
+ },
+ "OPD2601": {
+  "brand": "Oppo",
+  "name": "OPPO Pad 6"
+ },
+ "OPD2102": {
+  "brand": "Oppo",
+  "name": "OPPO Pad Air"
+ },
+ "OPD2302": {
+  "brand": "Oppo",
+  "name": "OPPO Pad Neo"
+ },
+ "OPD2303": {
+  "brand": "Oppo",
+  "name": "OPPO Pad Neo"
+ },
+ "PHW110": {
+  "brand": "Oppo",
+  "name": "OPPO Reno10 5G"
+ },
+ "PHV110": {
+  "brand": "Oppo",
+  "name": "OPPO Reno10 Pro 5G"
+ },
+ "PHU110": {
+  "brand": "Oppo",
+  "name": "OPPO Reno10 Pro+ 5G"
+ },
+ "CPH2199": {
+  "brand": "Oppo",
+  "name": "OPPO Reno5 A"
+ },
+ "PDRM00": {
+  "brand": "Oppo",
+  "name": "OPPO Reno5 Pro+ 5G"
+ },
+ "CPH2363": {
+  "brand": "Oppo",
+  "name": "OPPO Reno7/F21 Pro"
+ },
+ "CPH2371": {
+  "brand": "Oppo",
+  "name": "OPPO Reno7 5G/Find X5 Lite"
+ },
+ "CPH2353": {
+  "brand": "Oppo",
+  "name": "OPPO Reno7 A"
+ },
+ "CPH2343": {
+  "brand": "Oppo",
+  "name": "Reno7 Z 5G/Reno7 Lite 5G/Reno8 Lite 5G"
+ },
+ "CPH2359": {
+  "brand": "Oppo",
+  "name": "OPPO Reno8 5G"
+ },
+ "CPH2357": {
+  "brand": "Oppo",
+  "name": "OPPO Reno8 Pro 5G"
+ },
+ "CPH2481": {
+  "brand": "Oppo",
+  "name": "OPPO Reno8 T"
+ },
+ "PGX110": {
+  "brand": "Oppo",
+  "name": "OPPO Reno9 Pro 5G"
+ },
+ "PCRT01": {
+  "brand": "Oppo",
+  "name": "PCRT01"
+ },
+ "PDKM00": {
+  "brand": "Oppo",
+  "name": "PDKM00"
+ },
+ "PDKT00": {
+  "brand": "Oppo",
+  "name": "PDKT00"
+ },
+ "PDST00": {
+  "brand": "Oppo",
+  "name": "PDST00"
+ },
+ "PDYM20": {
+  "brand": "Oppo",
+  "name": "PDYM20"
+ },
+ "PDYT20": {
+  "brand": "Oppo",
+  "name": "PDYT20"
+ },
+ "PEAM00": {
+  "brand": "Oppo",
+  "name": "PEAM00"
+ },
+ "PEAT00": {
+  "brand": "Oppo",
+  "name": "PEAT00"
+ },
+ "PEGM00": {
+  "brand": "Oppo",
+  "name": "PEGM00"
+ },
+ "PEGM10": {
+  "brand": "Oppo",
+  "name": "PEGM10"
+ },
+ "PEGT00": {
+  "brand": "Oppo",
+  "name": "PEGT00"
+ },
+ "PEGT10": {
+  "brand": "Oppo",
+  "name": "PEGT10"
+ },
+ "PEHT00": {
+  "brand": "Oppo",
+  "name": "PEHM00"
+ },
+ "PEMM20": {
+  "brand": "Oppo",
+  "name": "PEMM20"
+ },
+ "PEPM00": {
+  "brand": "Oppo",
+  "name": "PEPM00"
+ },
+ "PEQM00": {
+  "brand": "Oppo",
+  "name": "PEQM00"
+ },
+ "PEXM00": {
+  "brand": "Oppo",
+  "name": "PEXM00"
+ },
+ "PEYM00": {
+  "brand": "Oppo",
+  "name": "PEYM00"
+ },
+ "PFCM00": {
+  "brand": "Oppo",
+  "name": "PFCM00"
+ },
+ "PFDM00": {
+  "brand": "Oppo",
+  "name": "PFDM00"
+ },
+ "PFFM10": {
+  "brand": "Oppo",
+  "name": "PFFM10"
+ },
+ "PFFM20": {
+  "brand": "Oppo",
+  "name": "PFFM20"
+ },
+ "PFGM00": {
+  "brand": "Oppo",
+  "name": "PFGM00"
+ },
+ "PFTM10": {
+  "brand": "Oppo",
+  "name": "PFTM10"
+ },
+ "PFTM20": {
+  "brand": "Oppo",
+  "name": "PFTM20"
+ },
+ "PFZM10": {
+  "brand": "Oppo",
+  "name": "PFZM10"
+ },
+ "PGAM10": {
+  "brand": "Oppo",
+  "name": "PGAM10"
+ },
+ "PGBM10": {
+  "brand": "Oppo",
+  "name": "PGBM10"
+ },
+ "PGCM10": {
+  "brand": "Oppo",
+  "name": "PGCM10"
+ },
+ "PGGM10": {
+  "brand": "Oppo",
+  "name": "PGGM10"
+ },
+ "PGJM10": {
+  "brand": "Oppo",
+  "name": "PGJM10"
+ },
+ "PGW110": {
+  "brand": "Oppo",
+  "name": "PGW110"
+ },
+ "PHM110": {
+  "brand": "Oppo",
+  "name": "PHM110"
+ },
+ "PLL110": {
+  "brand": "Oppo",
+  "name": "PLL110"
+ },
+ "PLT120": {
+  "brand": "Oppo",
+  "name": "PLT120"
+ },
+ "PLT130": {
+  "brand": "Oppo",
+  "name": "PLT130"
+ },
+ "PLT140": {
+  "brand": "Oppo",
+  "name": "PLT140"
+ },
+ "PLT150": {
+  "brand": "Oppo",
+  "name": "PLT150"
+ },
+ "PMM110": {
+  "brand": "Oppo",
+  "name": "PMM110"
+ },
+ "PYC110": {
+  "brand": "Oppo",
+  "name": "PYC110"
+ },
+ "OPD2409": {
+  "brand": "Oppo",
+  "name": "Pad 4 Pro"
+ },
+ "OPD2502": {
+  "brand": "Oppo",
+  "name": "Pad 5"
+ },
+ "OPD2503": {
+  "brand": "Oppo",
+  "name": "Pad 5"
+ },
+ "OPD2511": {
+  "brand": "Oppo",
+  "name": "Pad 5 Pro"
+ },
+ "OPD2501": {
+  "brand": "Oppo",
+  "name": "Pad Air5"
+ },
+ "OPD2510": {
+  "brand": "Oppo",
+  "name": "Pad Air5"
+ },
+ "OPD2613": {
+  "brand": "Oppo",
+  "name": "Pad Air6"
+ },
+ "OPD2614": {
+  "brand": "Oppo",
+  "name": "Pad Air6"
+ },
+ "OPD2515": {
+  "brand": "Oppo",
+  "name": "Pad Mini"
+ },
+ "OPD2516": {
+  "brand": "Oppo",
+  "name": "Pad Mini"
+ },
+ "OPD2417": {
+  "brand": "Oppo",
+  "name": "Pad SE"
+ },
+ "OPD2419": {
+  "brand": "Oppo",
+  "name": "Pad SE"
+ },
+ "OPD2420": {
+  "brand": "Oppo",
+  "name": "Pad SE"
+ },
+ "CPH1835": {
+  "brand": "Oppo",
+  "name": "R15"
+ },
+ "CPH1831": {
+  "brand": "Oppo",
+  "name": "R15 Pro"
+ },
+ "CPH1833": {
+  "brand": "Oppo",
+  "name": "R15 Pro"
+ },
+ "PACM00": {
+  "brand": "Oppo",
+  "name": "R15 中国版"
+ },
+ "PACT00": {
+  "brand": "Oppo",
+  "name": "R15 中国版"
+ },
+ "PAAM00": {
+  "brand": "Oppo",
+  "name": "R15 梦境版"
+ },
+ "PAAT00": {
+  "brand": "Oppo",
+  "name": "R15 梦境版"
+ },
+ "PBCM10": {
+  "brand": "Oppo",
+  "name": "R15x"
+ },
+ "PBCT10": {
+  "brand": "Oppo",
+  "name": "R15x"
+ },
+ "CPH1879": {
+  "brand": "Oppo",
+  "name": "R17"
+ },
+ "PBEM00": {
+  "brand": "Oppo",
+  "name": "R17"
+ },
+ "PBET00": {
+  "brand": "Oppo",
+  "name": "R17"
+ },
+ "CPH1877": {
+  "brand": "Oppo",
+  "name": "R17 Pro"
+ },
+ "PBDM00": {
+  "brand": "Oppo",
+  "name": "R17 Pro"
+ },
+ "PBDT00": {
+  "brand": "Oppo",
+  "name": "R17 Pro"
+ },
+ "CPH1607": {
+  "brand": "Oppo",
+  "name": "R9s"
+ },
+ "CPH1611": {
+  "brand": "Oppo",
+  "name": "R9s Plus"
+ },
+ "CPH1917": {
+  "brand": "Oppo",
+  "name": "Reno"
+ },
+ "CPH1921": {
+  "brand": "Oppo",
+  "name": "Reno 10x room"
+ },
+ "CPH1919": {
+  "brand": "Oppo",
+  "name": "Reno 10x Zoom"
+ },
+ "PCCM00": {
+  "brand": "Oppo",
+  "name": "Reno 10倍变焦版"
+ },
+ "PCCT00": {
+  "brand": "Oppo",
+  "name": "Reno 10倍变焦版"
+ },
+ "CPH2599": {
+  "brand": "Oppo",
+  "name": "Reno 11"
+ },
+ "CPH2607": {
+  "brand": "Oppo",
+  "name": "Reno 11 Pro"
+ },
+ "PCKM00": {
+  "brand": "Oppo",
+  "name": "Reno 2 中国版"
+ },
+ "CPH2065": {
+  "brand": "Oppo",
+  "name": "Reno 4Z 5G"
+ },
+ "CPH1983": {
+  "brand": "Oppo",
+  "name": "Reno A"
+ },
+ "PCLM10": {
+  "brand": "Oppo",
+  "name": "Reno Ace"
+ },
+ "PDHM00": {
+  "brand": "Oppo",
+  "name": "Reno Ace2"
+ },
+ "CPH1979": {
+  "brand": "Oppo",
+  "name": "Reno Z"
+ },
+ "PCDM10": {
+  "brand": "Oppo",
+  "name": "Reno Z 中国版"
+ },
+ "PCDT10": {
+  "brand": "Oppo",
+  "name": "Reno Z 中国版"
+ },
+ "PCAM00": {
+  "brand": "Oppo",
+  "name": "Reno 标准版"
+ },
+ "PCAT00": {
+  "brand": "Oppo",
+  "name": "Reno 标准版"
+ },
+ "CPH2531": {
+  "brand": "Oppo",
+  "name": "Reno10 5G"
+ },
+ "CPH2525": {
+  "brand": "Oppo",
+  "name": "Reno10 Pro 5G"
+ },
+ "CPH2541": {
+  "brand": "Oppo",
+  "name": "Reno10 Pro 5G"
+ },
+ "CPH2521": {
+  "brand": "Oppo",
+  "name": "Reno10 Pro+ 5G"
+ },
+ "PJH110": {
+  "brand": "Oppo",
+  "name": "Reno11"
+ },
+ "PJJ110": {
+  "brand": "Oppo",
+  "name": "Reno11 Pro"
+ },
+ "PJV110": {
+  "brand": "Oppo",
+  "name": "Reno12"
+ },
+ "CPH2625": {
+  "brand": "Oppo",
+  "name": "Reno12 5G"
+ },
+ "CPH2687": {
+  "brand": "Oppo",
+  "name": "Reno12 F"
+ },
+ "CPH2637": {
+  "brand": "Oppo",
+  "name": "Reno12 F/FS 5G"
+ },
+ "PJW110": {
+  "brand": "Oppo",
+  "name": "Reno12 Pro"
+ },
+ "CPH2629": {
+  "brand": "Oppo",
+  "name": "Reno12 Pro 5G"
+ },
+ "PKM110": {
+  "brand": "Oppo",
+  "name": "Reno13"
+ },
+ "CPH2689": {
+  "brand": "Oppo",
+  "name": "Reno13 5G"
+ },
+ "CPH2701": {
+  "brand": "Oppo",
+  "name": "Reno13 F"
+ },
+ "CPH2699": {
+  "brand": "Oppo",
+  "name": "Reno13 F 5G / Reno13 A"
+ },
+ "PKK110": {
+  "brand": "Oppo",
+  "name": "Reno13 Pro"
+ },
+ "CPH2697": {
+  "brand": "Oppo",
+  "name": "Reno13 Pro 5G"
+ },
+ "PLA110": {
+  "brand": "Oppo",
+  "name": "Reno14"
+ },
+ "CPH2737": {
+  "brand": "Oppo",
+  "name": "Reno14 5G"
+ },
+ "CPH2743": {
+  "brand": "Oppo",
+  "name": "Reno14 F 5G/Reno14 FS 5G"
+ },
+ "PKZ110": {
+  "brand": "Oppo",
+  "name": "Reno14 Pro"
+ },
+ "CPH2739": {
+  "brand": "Oppo",
+  "name": "Reno14 Pro 5G"
+ },
+ "PLW110": {
+  "brand": "Oppo",
+  "name": "Reno15"
+ },
+ "CPH2825": {
+  "brand": "Oppo",
+  "name": "Reno15 5G"
+ },
+ "CPH2801": {
+  "brand": "Oppo",
+  "name": "Reno15 FS 5G/Reno15 F 5G"
+ },
+ "PLV110": {
+  "brand": "Oppo",
+  "name": "Reno15 Pro"
+ },
+ "CPH2811": {
+  "brand": "Oppo",
+  "name": "Reno15 Pro Max 5G"
+ },
+ "CPH2813": {
+  "brand": "Oppo",
+  "name": "Reno15 Pro Mini 5G"
+ },
+ "PMD110": {
+  "brand": "Oppo",
+  "name": "Reno15c"
+ },
+ "CPH2865": {
+  "brand": "Oppo",
+  "name": "Reno16 5G"
+ },
+ "CPH2859": {
+  "brand": "Oppo",
+  "name": "Reno16c 5G"
+ },
+ "CPH2967": {
+  "brand": "Oppo",
+  "name": "Reno16 F 5G"
+ },
+ "PMK110": {
+  "brand": "Oppo",
+  "name": "Reno16 Pro"
+ },
+ "CPH2863": {
+  "brand": "Oppo",
+  "name": "Reno16 Pro 5G"
+ },
+ "PYK110": {
+  "brand": "Oppo",
+  "name": "Reno17"
+ },
+ "PND110": {
+  "brand": "Oppo",
+  "name": "Reno17 Pro"
+ },
+ "CPH1945": {
+  "brand": "Oppo",
+  "name": "Reno2 Z"
+ },
+ "CPH1951": {
+  "brand": "Oppo",
+  "name": "Reno2 Z"
+ },
+ "PCKM80": {
+  "brand": "Oppo",
+  "name": "Reno2 Z 中国版"
+ },
+ "PDCM00": {
+  "brand": "Oppo",
+  "name": "Reno3 5G 中国版"
+ },
+ "CPH2013": {
+  "brand": "Oppo",
+  "name": "Reno3 A"
+ },
+ "CPH2035": {
+  "brand": "Oppo",
+  "name": "Reno3 Pro"
+ },
+ "CPH2036": {
+  "brand": "Oppo",
+  "name": "Reno3 Pro"
+ },
+ "CPH2037": {
+  "brand": "Oppo",
+  "name": "Reno3 Pro"
+ },
+ "PCRM00": {
+  "brand": "Oppo",
+  "name": "Reno3 Pro 5G中国版"
+ },
+ "PCLM50": {
+  "brand": "Oppo",
+  "name": "Reno3 元气版 5G"
+ },
+ "CPH2091": {
+  "brand": "Oppo",
+  "name": "Reno4 5G"
+ },
+ "CPH2209": {
+  "brand": "Oppo",
+  "name": "Reno4 F"
+ },
+ "CPH2125": {
+  "brand": "Oppo",
+  "name": "Reno4 Lite"
+ },
+ "PDNT00": {
+  "brand": "Oppo",
+  "name": "Reno4 Pro"
+ },
+ "CPH2089": {
+  "brand": "Oppo",
+  "name": "Reno4 Pro 5G"
+ },
+ "PDNM00": {
+  "brand": "Oppo",
+  "name": "Reno4 Pro 中国版"
+ },
+ "PDPM00": {
+  "brand": "Oppo",
+  "name": "Reno4 中国版"
+ },
+ "PDPT00": {
+  "brand": "Oppo",
+  "name": "Reno4 中国版"
+ },
+ "CPH2217": {
+  "brand": "Oppo",
+  "name": "Reno5 F"
+ },
+ "CPH2205": {
+  "brand": "Oppo",
+  "name": "Reno5 Lite"
+ },
+ "PDSM00": {
+  "brand": "Oppo",
+  "name": "Reno5 Pro 5G"
+ },
+ "PENM00": {
+  "brand": "Oppo",
+  "name": "Reno6 Pro+ 5G"
+ },
+ "PFJM10": {
+  "brand": "Oppo",
+  "name": "Reno7 中国版"
+ },
+ "CPH2505": {
+  "brand": "Oppo",
+  "name": "Reno8 T 5G"
+ },
+ "CPH2523": {
+  "brand": "Oppo",
+  "name": "Reno9 A"
+ },
+ "CPH1859": {
+  "brand": "Oppo",
+  "name": "realme 1"
+ },
+ "CPH1861": {
+  "brand": "Oppo",
+  "name": "realme 1"
+ },
+ "RMX1805": {
+  "brand": "Oppo",
+  "name": "realme 2"
+ },
+ "RMX1809": {
+  "brand": "Oppo",
+  "name": "realme 2"
+ },
+ "RMX1803": {
+  "brand": "Oppo",
+  "name": "realme 2 Pro"
+ },
+ "RMX1807": {
+  "brand": "Oppo",
+  "name": "realme 2 Pro"
+ },
+ "RMX1821": {
+  "brand": "Oppo",
+  "name": "realme 3"
+ },
+ "RMX1822": {
+  "brand": "Oppo",
+  "name": "realme 3"
+ },
+ "RMX1825": {
+  "brand": "Oppo",
+  "name": "realme 3"
+ },
+ "RMX1853": {
+  "brand": "Oppo",
+  "name": "realme 3Pro"
+ },
+ "RMX1827": {
+  "brand": "Oppo",
+  "name": "realme 3i"
+ },
+ "RMX1911": {
+  "brand": "Realme",
+  "name": "realme 5"
+ },
+ "RMX1811": {
+  "brand": "Oppo",
+  "name": "realme C1"
+ },
+ "RMX1941": {
+  "brand": "Oppo",
+  "name": "realme C2"
+ },
+ "RMX1942": {
+  "brand": "Oppo",
+  "name": "realme C2"
+ },
+ "RMX1943": {
+  "brand": "Oppo",
+  "name": "realme C2"
+ },
+ "RMX1945": {
+  "brand": "Oppo",
+  "name": "realme C2"
+ },
+ "RMX3830": {
+  "brand": "realme",
+  "name": "realme C51"
+ },
+ "RMX1831": {
+  "brand": "Oppo",
+  "name": "realme U1"
+ },
+ "RMX1833": {
+  "brand": "Oppo",
+  "name": "realme U1"
+ },
+ "RMX1901": {
+  "brand": "Oppo",
+  "name": "realme X"
+ },
+ "RMX1851": {
+  "brand": "Realme",
+  "name": "realme 3Pro"
+ },
+ "RMX2051": {
+  "brand": "Oppo",
+  "name": "realme X50 5G"
+ },
+ "PCD508": {
+  "brand": "PCD Argentina",
+  "name": "PCD508"
+ },
+ "PCD509": {
+  "brand": "PCD Argentina",
+  "name": "PCD509"
+ },
+ "PVG100": {
+  "brand": "Palm",
+  "name": "PVG100"
+ },
+ "PTL21": {
+  "brand": "Pantech",
+  "name": "PTL21"
+ },
+ "PTPC02": {
+  "brand": "Pebble Quad",
+  "name": "PTPC02"
+ },
+ "PCS01": {
+  "brand": "Philco",
+  "name": "PCS01"
+ },
+ "PCS02": {
+  "brand": "Philco",
+  "name": "PCS02"
+ },
+ "PTAB751": {
+  "brand": "Polaroid",
+  "name": "PTAB751"
+ },
+ "PSTA103": {
+  "brand": "Prestigio_Solutions",
+  "name": "PSTA103"
+ },
+ "PSTA104": {
+  "brand": "Prestigio_Solutions",
+  "name": "PSTA104"
+ },
+ "PSTA111": {
+  "brand": "Prestigio_Solutions",
+  "name": "PSTA111"
+ },
+ "PSTA112": {
+  "brand": "Prestigio_Solutions",
+  "name": "PSTA112"
+ },
+ "PSTA101": {
+  "brand": "Prestigio_Solutions",
+  "name": "Virtuoso PSTA101"
+ },
+ "PSTA107": {
+  "brand": "Prestigio_Solutions",
+  "name": "Vitruoso"
+ },
+ "RMX2020": {
+  "brand": "Realme",
+  "name": "realme C3"
+ },
+ "RMX2040": {
+  "brand": "Realme",
+  "name": "realme 6i"
+ },
+ "RMX3063": {
+  "brand": "realme",
+  "name": "realme C20"
+ },
+ "RMX3231": {
+  "brand": "realme",
+  "name": "realme C11 2021"
+ },
+ "RMX2202": {
+  "brand": "realme",
+  "name": "realme GT 5G"
+ },
+ "RMX1801": {
+  "brand": "Realme",
+  "name": "realme 2 Pro"
+ },
+ "RMX1915": {
+  "brand": "Realme",
+  "name": "realme 5"
+ },
+ "RMX1919": {
+  "brand": "Realme",
+  "name": "realme 5"
+ },
+ "RMX1925": {
+  "brand": "Realme",
+  "name": "realme 5"
+ },
+ "RMX1926": {
+  "brand": "Realme",
+  "name": "realme 5"
+ },
+ "RMX1927": {
+  "brand": "Realme",
+  "name": "realme 5"
+ },
+ "RMX1971": {
+  "brand": "Realme",
+  "name": "realme Q"
+ },
+ "RMX2030": {
+  "brand": "Realme",
+  "name": "realme 5i"
+ },
+ "RMX2031": {
+  "brand": "Realme",
+  "name": "realme 5i"
+ },
+ "RMX2032": {
+  "brand": "Realme",
+  "name": "realme 5i"
+ },
+ "RMX1973": {
+  "brand": "Realme",
+  "name": "realme 5pro"
+ },
+ "RMX2001": {
+  "brand": "realme",
+  "name": "realme 6"
+ },
+ "RMX2003": {
+  "brand": "Realme",
+  "name": "realme 6"
+ },
+ "RMX2063": {
+  "brand": "realme",
+  "name": "realme 6Pro"
+ },
+ "RMX2190": {
+  "brand": "Realme",
+  "name": "realme 6i"
+ },
+ "RMX2041": {
+  "brand": "Realme",
+  "name": "realme 6i"
+ },
+ "RMX2042": {
+  "brand": "Realme",
+  "name": "realme 6i"
+ },
+ "RMX2002": {
+  "brand": "realme",
+  "name": "realme 6"
+ },
+ "RMX2170": {
+  "brand": "realme",
+  "name": "realme 7 Pro"
+ },
+ "RMX2103": {
+  "brand": "Realme",
+  "name": "realme 7i"
+ },
+ "RMX2193": {
+  "brand": "Realme",
+  "name": "realme Narzo 20"
+ },
+ "RMX3081": {
+  "brand": "realme",
+  "name": "realme 8 Pro"
+ },
+ "RMX3151": {
+  "brand": "realme",
+  "name": "realme 8i"
+ },
+ "RMX2185": {
+  "brand": "Realme",
+  "name": "realme C11"
+ },
+ "RMX2186": {
+  "brand": "Realme",
+  "name": "realme C11"
+ },
+ "RMX2184": {
+  "brand": "Realme",
+  "name": "realme C12"
+ },
+ "RMX2189": {
+  "brand": "Realme",
+  "name": "realme C12"
+ },
+ "RMX2180": {
+  "brand": "realme",
+  "name": "realme C15"
+ },
+ "RMX2181": {
+  "brand": "Realme",
+  "name": "realme C15"
+ },
+ "RMX2183": {
+  "brand": "Realme",
+  "name": "realme C15"
+ },
+ "RMX2195": {
+  "brand": "realme",
+  "name": "realme C15 Qualcomm Edition"
+ },
+ "RMX2101": {
+  "brand": "Realme",
+  "name": "realme C17"
+ },
+ "RMX1946": {
+  "brand": "Realme",
+  "name": "realme C2"
+ },
+ "RMX3061": {
+  "brand": "realme",
+  "name": "realme C20"
+ },
+ "RMX3201": {
+  "brand": "Realme",
+  "name": "realme C21"
+ },
+ "RMX3202": {
+  "brand": "Realme",
+  "name": "realme C21"
+ },
+ "RMX3203": {
+  "brand": "Realme",
+  "name": "realme C21"
+ },
+ "RMX3261": {
+  "brand": "realme",
+  "name": "realme C21Y"
+ },
+ "RMX2021": {
+  "brand": "Realme",
+  "name": "realme C3"
+ },
+ "RMX2022": {
+  "brand": "Realme",
+  "name": "realme C3"
+ },
+ "RMX2027": {
+  "brand": "Realme",
+  "name": "realme C3i"
+ },
+ "RMX3366": {
+  "brand": "Realme",
+  "name": "realme GT Explorer Master Edition"
+ },
+ "RMX3363": {
+  "brand": "Realme",
+  "name": "realme GT Master Edition"
+ },
+ "RMX3370": {
+  "brand": "realme",
+  "name": "realme GT Neo2 5G"
+ },
+ "RMX3121": {
+  "brand": "Realme",
+  "name": "realme V11 5G"
+ },
+ "RMX3122": {
+  "brand": "Realme",
+  "name": "realme V11 5G"
+ },
+ "RMX2200": {
+  "brand": "Realme",
+  "name": "realme V3  5G"
+ },
+ "RMX2201": {
+  "brand": "Realme",
+  "name": "realme V3 5G"
+ },
+ "RMX1991": {
+  "brand": "Realme",
+  "name": "realme X2"
+ },
+ "RMX1992": {
+  "brand": "Realme",
+  "name": "realme X2"
+ },
+ "RMX1993": {
+  "brand": "Realme",
+  "name": "realme X2"
+ },
+ "RMX1931": {
+  "brand": "Realme",
+  "name": "realme X2Pro"
+ },
+ "RMX2081": {
+  "brand": "Realme",
+  "name": "realme X3"
+ },
+ "RMX2085": {
+  "brand": "Realme",
+  "name": "realme X3"
+ },
+ "RMX2025": {
+  "brand": "Realme",
+  "name": "realme X50 5G"
+ },
+ "RMX2144": {
+  "brand": "Realme",
+  "name": "realme X50 5G"
+ },
+ "RMX2071": {
+  "brand": "Realme",
+  "name": "realme X50 Pro"
+ },
+ "RMX2075": {
+  "brand": "realme",
+  "name": "realme X50 Pro"
+ },
+ "RMX2141": {
+  "brand": "realme",
+  "name": "realme X50m 5G"
+ },
+ "RMX2142": {
+  "brand": "Realme",
+  "name": "realme X50m 5G"
+ },
+ "RMX2052": {
+  "brand": "Realme",
+  "name": "realme X50t 5G"
+ },
+ "RMX1921": {
+  "brand": "Realme",
+  "name": "realme XT"
+ },
+ "RMX1922": {
+  "brand": "Realme",
+  "name": "realme XT"
+ },
+ "RMX2050": {
+  "brand": "Realme",
+  "name": "realme narzo 20A"
+ },
+ "RMX3171": {
+  "brand": "realme",
+  "name": "realme narzo 30A"
+ },
+ "RMX2104": {
+  "brand": "Realme",
+  "name": "realme 7i"
+ },
+ "RMX3116": {
+  "brand": "Realme",
+  "name": "真我 X7 pro至尊版"
+ },
+ "RMX3350": {
+  "brand": "Realme",
+  "name": "真我GT Neo 闪速版"
+ },
+ "RMX3357": {
+  "brand": "Realme",
+  "name": "真我GT Neo2T"
+ },
+ "RMX3125": {
+  "brand": "Realme",
+  "name": "真我V11s 5G"
+ },
+ "PXX79": {
+  "brand": "Synetech",
+  "name": "infnity_Piscis_E1"
+ },
+ "PNC450": {
+  "brand": "TOPJOY",
+  "name": "PNC450"
+ },
+ "KB1002": {
+  "brand": "Zynex",
+  "name": "KB1002"
+ },
+ "KB1006": {
+  "brand": "Zynex",
+  "name": "KB1006"
+ },
+ "PAD001": {
+  "brand": "momentplus",
+  "name": "PAD001"
+ },
+ "RMX3869": {
+  "brand": "realme",
+  "name": "NARZO 70 5G"
+ },
+ "RMX3868": {
+  "brand": "realme",
+  "name": "NARZO 70 Pro 5G"
+ },
+ "RMX3268": {
+  "brand": "realme",
+  "name": "RMX3268"
+ },
+ "RMX3612": {
+  "brand": "realme",
+  "name": "realme 9i 5G"
+ },
+ "RMX3627": {
+  "brand": "realme",
+  "name": "realme C33 128GB"
+ },
+ "RMX3710": {
+  "brand": "realme",
+  "name": "realme C55"
+ },
+ "RMX3771": {
+  "brand": "realme",
+  "name": "realme 11 Pro 5G"
+ },
+ "RMX3782": {
+  "brand": "realme",
+  "name": "RMX3782"
+ },
+ "RMX3834": {
+  "brand": "realme",
+  "name": "realme note 50"
+ },
+ "RMX3871": {
+  "brand": "realme",
+  "name": "realme 12"
+ },
+ "RMX3933": {
+  "brand": "realme",
+  "name": "realme Note 60"
+ },
+ "RMX3939": {
+  "brand": "realme",
+  "name": "realme C63"
+ },
+ "RMX3940": {
+  "brand": "realme",
+  "name": "RMX3940"
+ },
+ "RMX3943": {
+  "brand": "realme",
+  "name": "realme C75 5G"
+ },
+ "RMX3944": {
+  "brand": "realme",
+  "name": "RMX3944"
+ },
+ "RMX3945": {
+  "brand": "realme",
+  "name": "RMX3945"
+ },
+ "RMX3990": {
+  "brand": "realme",
+  "name": "RMX3990"
+ },
+ "RMX3997": {
+  "brand": "realme",
+  "name": "realme 12x 5G"
+ },
+ "RMX3998": {
+  "brand": "realme",
+  "name": "RMX3998"
+ },
+ "RMX5000": {
+  "brand": "realme",
+  "name": "realme 13+ 5G"
+ },
+ "RMX5061": {
+  "brand": "realme",
+  "name": "RMX5061"
+ },
+ "RMX5107": {
+  "brand": "realme",
+  "name": "realme P4 Power 5G"
+ },
+ "RMX5111": {
+  "brand": "realme",
+  "name": "realme 15T"
+ },
+ "RMX5200": {
+  "brand": "realme",
+  "name": "RMX5200"
+ },
+ "RMX5210": {
+  "brand": "realme",
+  "name": "RMX5210"
+ },
+ "RMX5258": {
+  "brand": "realme",
+  "name": "realme C100 5G"
+ },
+ "RMX5261": {
+  "brand": "realme",
+  "name": "RMX5261"
+ },
+ "RMX5266": {
+  "brand": "realme",
+  "name": "RMX5266"
+ },
+ "RMX5303": {
+  "brand": "realme",
+  "name": "realme C71"
+ },
+ "RMX5313": {
+  "brand": "realme",
+  "name": "realme Note 70T"
+ },
+ "RMX5366": {
+  "brand": "realme",
+  "name": "realme C100x"
+ },
+ "RMX5377": {
+  "brand": "realme",
+  "name": "realme C100i"
+ },
+ "RMX5388": {
+  "brand": "realme",
+  "name": "realme Note 80"
+ },
+ "RMX5555": {
+  "brand": "realme",
+  "name": "RMX5555"
+ },
+ "RMX3571": {
+  "brand": "realme",
+  "name": "realme V23"
+ },
+ "RMX3572": {
+  "brand": "realme",
+  "name": "realme narzo 50 5G"
+ },
+ "RMX3395": {
+  "brand": "realme",
+  "name": "narzo 50 Pro 5G"
+ },
+ "RMX3396": {
+  "brand": "realme",
+  "name": "narzo 50 Pro 5G"
+ },
+ "RMX3085": {
+  "brand": "realme",
+  "name": "realme 8"
+ },
+ "RMX3491": {
+  "brand": "realme",
+  "name": "realme 9i"
+ },
+ "RMX3576": {
+  "brand": "realme",
+  "name": "realme  V23i"
+ },
+ "RMX3031": {
+  "brand": "realme",
+  "name": "真我GT Neo"
+ },
+ "RMX2156": {
+  "brand": "realme",
+  "name": "realme narzo 30"
+ },
+ "RMX3615": {
+  "brand": "realme",
+  "name": "realme 10"
+ },
+ "RMX3630": {
+  "brand": "realme",
+  "name": "realme 10"
+ },
+ "RMX3663": {
+  "brand": "realme",
+  "name": "realme 10 Pro"
+ },
+ "RMX3660": {
+  "brand": "realme",
+  "name": "realme 10 Pro 5G"
+ },
+ "RMX3661": {
+  "brand": "realme",
+  "name": "realme 10 Pro 5G"
+ },
+ "RMX3687": {
+  "brand": "realme",
+  "name": "realme 10 Pro+"
+ },
+ "RMX3686": {
+  "brand": "realme",
+  "name": "realme 10 Pro+ 5G"
+ },
+ "RMX3617": {
+  "brand": "realme",
+  "name": "realme 10s"
+ },
+ "RMX3751": {
+  "brand": "realme",
+  "name": "realme 11"
+ },
+ "RMX3636": {
+  "brand": "realme",
+  "name": "realme 11"
+ },
+ "RMX3780": {
+  "brand": "realme",
+  "name": "realme 11 5G"
+ },
+ "RMX3740": {
+  "brand": "realme",
+  "name": "realme 11 Pro+"
+ },
+ "RMX3741": {
+  "brand": "realme",
+  "name": "realme 11 Pro+ 5G"
+ },
+ "RMX3785": {
+  "brand": "realme",
+  "name": "realme 11x 5G"
+ },
+ "RMX3999": {
+  "brand": "realme",
+  "name": "realme 12 5G"
+ },
+ "RMX3890": {
+  "brand": "realme",
+  "name": "realme C67"
+ },
+ "RMX3842": {
+  "brand": "realme",
+  "name": "realme 12 Pro 5G"
+ },
+ "RMX3840": {
+  "brand": "realme",
+  "name": "realme 12 Pro+ 5G"
+ },
+ "RMX3867": {
+  "brand": "realme",
+  "name": "realme 12+ 5G"
+ },
+ "RMX3951": {
+  "brand": "realme",
+  "name": "realme 13 5G"
+ },
+ "RMX3988": {
+  "brand": "realme",
+  "name": "realme 13 Pro 5G"
+ },
+ "RMX3921": {
+  "brand": "realme",
+  "name": "realme 13 Pro+ 5G"
+ },
+ "RMX5070": {
+  "brand": "realme",
+  "name": "realme P3 5G"
+ },
+ "RMX5056": {
+  "brand": "realme",
+  "name": "realme 14 Pro 5G"
+ },
+ "RMX5057": {
+  "brand": "realme",
+  "name": "realme 14 Pro 5G"
+ },
+ "RMX5051": {
+  "brand": "realme",
+  "name": "realme 14 Pro+ 5G"
+ },
+ "RMX5054": {
+  "brand": "realme",
+  "name": "realme 14 Pro+ 5G"
+ },
+ "RMX5074": {
+  "brand": "realme",
+  "name": "realme 14T 5G"
+ },
+ "RMX5078": {
+  "brand": "realme",
+  "name": "realme 14T 5G"
+ },
+ "RMX5106": {
+  "brand": "realme",
+  "name": "realme 15 5G"
+ },
+ "RMX5101": {
+  "brand": "realme",
+  "name": "realme 15 Pro 5G"
+ },
+ "RMX5250": {
+  "brand": "realme",
+  "name": "realme 15x 5G"
+ },
+ "RMX5171": {
+  "brand": "realme",
+  "name": "realme 16 5G"
+ },
+ "RMX5120": {
+  "brand": "realme",
+  "name": "realme 16 Pro 5G"
+ },
+ "RMX5131": {
+  "brand": "realme",
+  "name": "realme 16 Pro+ 5G"
+ },
+ "RMX5268": {
+  "brand": "realme",
+  "name": "realme 16T 5G"
+ },
+ "RMX5270": {
+  "brand": "realme",
+  "name": "realme 16x 5G"
+ },
+ "RMX2061": {
+  "brand": "realme",
+  "name": "realme 6Pro"
+ },
+ "RMX2151": {
+  "brand": "realme",
+  "name": "realme 7"
+ },
+ "RMX2111": {
+  "brand": "realme",
+  "name": "realme V5 5G"
+ },
+ "RMX3241": {
+  "brand": "realme",
+  "name": "realme 8 5G"
+ },
+ "RMX3381": {
+  "brand": "realme",
+  "name": "realme 8s 5G"
+ },
+ "RMX3521": {
+  "brand": "realme",
+  "name": "realme 9"
+ },
+ "RMX3474": {
+  "brand": "realme",
+  "name": "realme 9Pro 5G"
+ },
+ "RMX3388": {
+  "brand": "realme",
+  "name": "realme 9 5G"
+ },
+ "RMX3461": {
+  "brand": "realme",
+  "name": "真我Q3s"
+ },
+ "RMX3392": {
+  "brand": "realme",
+  "name": "realme 9 Pro+"
+ },
+ "RMX3393": {
+  "brand": "realme",
+  "name": "realme 9 Pro+"
+ },
+ "RMX3471": {
+  "brand": "realme",
+  "name": "realme 9Pro 5G"
+ },
+ "RMX3472": {
+  "brand": "realme",
+  "name": "realme 9Pro 5G"
+ },
+ "RMX3492": {
+  "brand": "realme",
+  "name": "realme 9i"
+ },
+ "RMX3493": {
+  "brand": "realme",
+  "name": "realme 9i"
+ },
+ "RMX5399": {
+  "brand": "realme",
+  "name": "realme C100i"
+ },
+ "RMX5353": {
+  "brand": "realme",
+  "name": "realme C100"
+ },
+ "RMX5363": {
+  "brand": "realme",
+  "name": "realme C100d"
+ },
+ "RMX3263": {
+  "brand": "realme",
+  "name": "realme C21-Y"
+ },
+ "RMX3262": {
+  "brand": "realme",
+  "name": "realme C21Y"
+ },
+ "RMX3191": {
+  "brand": "realme",
+  "name": "realme C25"
+ },
+ "RMX3193": {
+  "brand": "realme",
+  "name": "realme C25"
+ },
+ "RMX3265": {
+  "brand": "realme",
+  "name": "realme C25Y"
+ },
+ "RMX3269": {
+  "brand": "realme",
+  "name": "realme C25Y"
+ },
+ "RMX3195": {
+  "brand": "realme",
+  "name": "realme C25s"
+ },
+ "RMX3197": {
+  "brand": "realme",
+  "name": "realme C25s"
+ },
+ "RMX3581": {
+  "brand": "realme",
+  "name": "realme C30"
+ },
+ "RMX3623": {
+  "brand": "realme",
+  "name": "realme C30"
+ },
+ "RMX3690": {
+  "brand": "realme",
+  "name": "realme C30s"
+ },
+ "RMX3501": {
+  "brand": "realme",
+  "name": "realme C31"
+ },
+ "RMX3502": {
+  "brand": "realme",
+  "name": "realme C31"
+ },
+ "RMX3503": {
+  "brand": "realme",
+  "name": "realme C31"
+ },
+ "RMX3624": {
+  "brand": "realme",
+  "name": "realme C33"
+ },
+ "RMX3511": {
+  "brand": "realme",
+  "name": "realme C35"
+ },
+ "RMX3512": {
+  "brand": "realme",
+  "name": "realme C35"
+ },
+ "RMX3513": {
+  "brand": "realme",
+  "name": "realme C35"
+ },
+ "RMX3765": {
+  "brand": "realme",
+  "name": "realme C51s"
+ },
+ "RMX3760": {
+  "brand": "realme",
+  "name": "realme C53"
+ },
+ "RMX3762": {
+  "brand": "realme",
+  "name": "realme C53"
+ },
+ "RMX3930": {
+  "brand": "realme",
+  "name": "realme C61"
+ },
+ "RMX3950": {
+  "brand": "realme",
+  "name": "realme C63 5G"
+ },
+ "RMX3910": {
+  "brand": "realme",
+  "name": "realme C65"
+ },
+ "RMX3941": {
+  "brand": "realme",
+  "name": "realme C75"
+ },
+ "RMX3963": {
+  "brand": "realme",
+  "name": "realme C75 5G"
+ },
+ "RMX5020": {
+  "brand": "realme",
+  "name": "realme C75x"
+ },
+ "RMX5256": {
+  "brand": "realme",
+  "name": "realme C83 5G"
+ },
+ "RMX5566": {
+  "brand": "realme",
+  "name": "realme C85"
+ },
+ "RMX5253": {
+  "brand": "realme",
+  "name": "realme C85 5G"
+ },
+ "RMX3312": {
+  "brand": "realme",
+  "name": "realme GT 2"
+ },
+ "RMX3301": {
+  "brand": "realme",
+  "name": "realme GT 2 Pro"
+ },
+ "RMX3851": {
+  "brand": "realme",
+  "name": "realme GT 6"
+ },
+ "RMX3853": {
+  "brand": "realme",
+  "name": "realme GT 6T"
+ },
+ "RMX5011": {
+  "brand": "realme",
+  "name": "realme GT 7 Pro"
+ },
+ "RMX5085": {
+  "brand": "realme",
+  "name": "realme GT 7T"
+ },
+ "RMX3361": {
+  "brand": "realme",
+  "name": "realme GT Master Edition"
+ },
+ "RMX3360": {
+  "brand": "realme",
+  "name": "realme GT Master Edition"
+ },
+ "RMX3561": {
+  "brand": "realme",
+  "name": "realme GT NEO 3"
+ },
+ "RMX3563": {
+  "brand": "realme",
+  "name": "realme GT NEO 3 150W"
+ },
+ "RMX3371": {
+  "brand": "realme",
+  "name": "realme GT NEO 3T"
+ },
+ "RMX3701": {
+  "brand": "realme",
+  "name": "realme GT Neo 5 SE"
+ },
+ "RMX3709": {
+  "brand": "realme",
+  "name": "realme GT3 240W"
+ },
+ "RMX3820": {
+  "brand": "realme",
+  "name": "realme GT5"
+ },
+ "RMX3823": {
+  "brand": "realme",
+  "name": "realme GT5 240W"
+ },
+ "RMX3888": {
+  "brand": "realme",
+  "name": "realme GT5 Pro"
+ },
+ "RMX5003": {
+  "brand": "realme",
+  "name": "realme NARZO 70 Turbo 5G"
+ },
+ "RMX5033": {
+  "brand": "realme",
+  "name": "realme NARZO 80 Pro 5G"
+ },
+ "RMX5264": {
+  "brand": "realme",
+  "name": "realme NARZO 90x 5G"
+ },
+ "RMX2117": {
+  "brand": "realme",
+  "name": "realme Q2 5G"
+ },
+ "RMX3938": {
+  "brand": "realme",
+  "name": "realme Note 60x"
+ },
+ "RMX3870": {
+  "brand": "realme",
+  "name": "realme P1 5G"
+ },
+ "RMX3844": {
+  "brand": "realme",
+  "name": "realme P1 Pro 5G"
+ },
+ "RMX5004": {
+  "brand": "realme",
+  "name": "realme P1 Speed 5G"
+ },
+ "RMX3987": {
+  "brand": "realme",
+  "name": "realme P2 Pro 5G"
+ },
+ "RMX5079": {
+  "brand": "realme",
+  "name": "realme P3 5G"
+ },
+ "RMX5300": {
+  "brand": "realme",
+  "name": "realme P3 Lite"
+ },
+ "RMX5032": {
+  "brand": "realme",
+  "name": "realme P3 Pro 5G"
+ },
+ "RMX5030": {
+  "brand": "realme",
+  "name": "realme P3 Ultra 5G"
+ },
+ "RMX5031": {
+  "brand": "realme",
+  "name": "realme P3 Ultra 5G"
+ },
+ "RMX5110": {
+  "brand": "realme",
+  "name": "realme P4 5G"
+ },
+ "RMX5378": {
+  "brand": "realme",
+  "name": "realme P4 Lite"
+ },
+ "RMX5116": {
+  "brand": "realme",
+  "name": "realme P4 Pro 5G"
+ },
+ "RMX5125": {
+  "brand": "realme",
+  "name": "realme P4s 5G"
+ },
+ "RMX5398": {
+  "brand": "realme",
+  "name": "realme P4s Lite"
+ },
+ "RMX5367": {
+  "brand": "realme",
+  "name": "realme P4x"
+ },
+ "RMX5108": {
+  "brand": "realme",
+  "name": "realme P4x 5G"
+ },
+ "RMX3161": {
+  "brand": "realme",
+  "name": "realme Q3 5G"
+ },
+ "RMX3142": {
+  "brand": "realme",
+  "name": "realme Q3 Pro Play"
+ },
+ "RMX3478": {
+  "brand": "realme",
+  "name": "realme Q5"
+ },
+ "RMX3372": {
+  "brand": "realme",
+  "name": "realme Q5 Pro"
+ },
+ "RMX3574": {
+  "brand": "realme",
+  "name": "realme Q5i"
+ },
+ "RMX3092": {
+  "brand": "realme",
+  "name": "realme X7 5G"
+ },
+ "RMX3093": {
+  "brand": "realme",
+  "name": "realme V15 5G"
+ },
+ "RMX3475": {
+  "brand": "realme",
+  "name": "realme V25"
+ },
+ "RMX3618": {
+  "brand": "realme",
+  "name": "realme V30"
+ },
+ "RMX3619": {
+  "brand": "realme",
+  "name": "realme V30"
+ },
+ "RMX2112": {
+  "brand": "realme",
+  "name": "realme V5 5G"
+ },
+ "RMX2083": {
+  "brand": "realme",
+  "name": "realme X3"
+ },
+ "RMX2086": {
+  "brand": "realme",
+  "name": "realme X3"
+ },
+ "RMX2076": {
+  "brand": "realme",
+  "name": "realme X50 Pro"
+ },
+ "RMX2072": {
+  "brand": "realme",
+  "name": "realme X50 Pro Play"
+ },
+ "RMX3115": {
+  "brand": "realme",
+  "name": "realme X7Pro Ultra"
+ },
+ "RMX2176": {
+  "brand": "realme",
+  "name": "realme X7 5G"
+ },
+ "RMX2161": {
+  "brand": "realme",
+  "name": "realme narzo 20 Pro"
+ },
+ "RMX3242": {
+  "brand": "realme",
+  "name": "realme narzo 30 5G"
+ },
+ "RMX3286": {
+  "brand": "realme",
+  "name": "realme narzo 50"
+ },
+ "RMX3430": {
+  "brand": "realme",
+  "name": "realme narzo 50A"
+ },
+ "RMX3516": {
+  "brand": "realme",
+  "name": "realme narzo 50A Prime"
+ },
+ "RMX3517": {
+  "brand": "realme",
+  "name": "realme narzo 50A Prime"
+ },
+ "RMX3235": {
+  "brand": "realme",
+  "name": "realme narzo 50i"
+ },
+ "RMX3506": {
+  "brand": "realme",
+  "name": "realme narzo 50i Prime"
+ },
+ "RMX3750": {
+  "brand": "realme",
+  "name": "realme narzo 60 5G"
+ },
+ "RMX3761": {
+  "brand": "realme",
+  "name": "realme narzo N53"
+ },
+ "RMX2121": {
+  "brand": "realme",
+  "name": "realme  X7 Pro"
+ },
+ "RMX3706": {
+  "brand": "realme",
+  "name": "realmeGT Neo5"
+ },
+ "RMX3708": {
+  "brand": "realme",
+  "name": "realmeGT Neo5 240W"
+ },
+ "RMX3562": {
+  "brand": "realme",
+  "name": "真我 GT NEO  3  150W"
+ },
+ "RMX3560": {
+  "brand": "realme",
+  "name": "真我 GT NEO 3"
+ },
+ "RMX3551": {
+  "brand": "realme",
+  "name": "真我 GT2 大师探索版"
+ },
+ "RMX2205": {
+  "brand": "realme",
+  "name": "真我 Q3 Pro 5G"
+ },
+ "RMX3610": {
+  "brand": "realme",
+  "name": "真我 V20"
+ },
+ "RMX3611": {
+  "brand": "realme",
+  "name": "真我 V20"
+ },
+ "RMX3770": {
+  "brand": "realme",
+  "name": "真我11 Pro"
+ },
+ "RMX3992": {
+  "brand": "realme",
+  "name": "真我12"
+ },
+ "RMX3843": {
+  "brand": "realme",
+  "name": "真我12 Pro"
+ },
+ "RMX3841": {
+  "brand": "realme",
+  "name": "真我12 Pro+"
+ },
+ "RMX3993": {
+  "brand": "realme",
+  "name": "真我12x"
+ },
+ "RMX3952": {
+  "brand": "realme",
+  "name": "真我13"
+ },
+ "RMX5002": {
+  "brand": "realme",
+  "name": "真我13 Pro"
+ },
+ "RMX3920": {
+  "brand": "realme",
+  "name": "真我13 Pro+"
+ },
+ "RMX3989": {
+  "brand": "realme",
+  "name": "真我13 Pro至尊版"
+ },
+ "RMX5075": {
+  "brand": "realme",
+  "name": "真我14"
+ },
+ "RMX5055": {
+  "brand": "realme",
+  "name": "真我14 Pro"
+ },
+ "RMX5050": {
+  "brand": "realme",
+  "name": "真我14 Pro+"
+ },
+ "RMX5105": {
+  "brand": "realme",
+  "name": "真我15"
+ },
+ "RMX5100": {
+  "brand": "realme",
+  "name": "真我15 Pro"
+ },
+ "RMX5112": {
+  "brand": "realme",
+  "name": "真我15T"
+ },
+ "RMX3310": {
+  "brand": "realme",
+  "name": "真我GT 2"
+ },
+ "RMX3311": {
+  "brand": "realme",
+  "name": "真我GT 2"
+ },
+ "RMX3300": {
+  "brand": "realme",
+  "name": "真我GT 2 Pro"
+ },
+ "RMX3852": {
+  "brand": "realme",
+  "name": "真我GT Neo6"
+ },
+ "RMX3850": {
+  "brand": "realme",
+  "name": "真我GT Neo6 SE"
+ },
+ "RMX3800": {
+  "brand": "realme",
+  "name": "真我GT6"
+ },
+ "RMX6688": {
+  "brand": "realme",
+  "name": "真我GT7"
+ },
+ "RMX5010": {
+  "brand": "realme",
+  "name": "真我GT7 Pro"
+ },
+ "RMX5090": {
+  "brand": "realme",
+  "name": "真我GT7 Pro竞速版"
+ },
+ "RMX6699": {
+  "brand": "realme",
+  "name": "真我GT8"
+ },
+ "RMX5060": {
+  "brand": "realme",
+  "name": "真我Neo7"
+ },
+ "RMX5080": {
+  "brand": "realme",
+  "name": "真我Neo7 SE"
+ },
+ "RMX5062": {
+  "brand": "realme",
+  "name": "真我Neo7 Turbo"
+ },
+ "RMX5071": {
+  "brand": "realme",
+  "name": "真我Neo7x"
+ },
+ "RMX8899": {
+  "brand": "realme",
+  "name": "真我Neo8"
+ },
+ "RMX3462": {
+  "brand": "realme",
+  "name": "真我Q3s"
+ },
+ "RMX3041": {
+  "brand": "realme",
+  "name": "真我V13 5G"
+ },
+ "RMX3042": {
+  "brand": "realme",
+  "name": "真我V13 5G"
+ },
+ "RMX3043": {
+  "brand": "realme",
+  "name": "真我V13 5G"
+ },
+ "RMX3783": {
+  "brand": "realme",
+  "name": "真我V50"
+ },
+ "RMX3781": {
+  "brand": "realme",
+  "name": "真我V50s"
+ },
+ "RMX3995": {
+  "brand": "realme",
+  "name": "真我V60"
+ },
+ "RMX3953": {
+  "brand": "realme",
+  "name": "真我V60 Pro"
+ },
+ "RMX3996": {
+  "brand": "realme",
+  "name": "真我V60s"
+ },
+ "RMX3946": {
+  "brand": "realme",
+  "name": "真我V70"
+ },
+ "RMX3948": {
+  "brand": "realme",
+  "name": "真我V70s"
+ }
+}

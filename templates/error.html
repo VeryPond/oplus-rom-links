@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block title %}解析失败{% endblock %}
+{% block body %}
+<h1>解析失败</h1>
+<p class="sub">{{ r.device }} · {{ r.version }}</p>
+<div class="note">上游返回：<span class="mono">{{ err }}</span></div>
+<p><a href="/device/{{ r.device }}">← 返回机型页</a></p>
+{% endblock %}

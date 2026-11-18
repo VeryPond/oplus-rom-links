@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block title %}{{ brand }} ROM{% endblock %}
+{% block body %}
+<h1>{{ brand }}</h1>
+<p class="sub">共 {{ devices|length }} 个机型</p>
+<div class="grid">
+  {% for d in devices %}
+  <a class="card" href="/device/{{ d.device }}">
+    <div class="name">{{ d.device }}</div>
+    <div class="meta">
+      {% if d.latest %}
+      最新 <b>{{ d.latest.version }}</b><br>
+      {{ (d.latest.build or '')[:10] }} · 补丁 {{ d.latest.patch or '—' }}<br>
+      {% endif %}
+      {{ d.count }} 个版本 · {{ d.regions|length }} 个地区：{{ d.regions|join(' / ') }}
+    </div>
+  </a>
+  {% else %}
+  <div class="empty">没有数据</div>
+  {% endfor %}
+</div>
+{% endblock %}
