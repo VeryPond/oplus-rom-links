@@ -8,6 +8,20 @@
 起因是常见的做法（扒第三方目录）只有 103 个机型 —— 那是别人爬虫的天花板。
 要全机型只能直连厂商自己的 OTA 服务器，而那个接口是 RSA + AES 双重加密的。
 
+## 界面
+
+首页（双源统计 + 品牌/地区入口）：
+
+![首页](assets/home.png)
+
+机型详情（按地区分组，标注数据来源）：
+
+![机型详情](assets/device.png)
+
+地区页（中国大陆 129 个机型）：
+
+![地区页](assets/region_cn.png)
+
 ## 结果
 
 真机无关，纯协议对接。当前覆盖：
@@ -126,6 +140,13 @@ docs/                 说明文档（见下）
 2. **地区未穷举**：每型号试 4~10 个主要地区，冷门地区（`sa`/`mea`/`roe`/`la`）可能有漏。
 3. **依赖第三方目录站**：它的 API 变了或限流，目录源就不可用。
 4. **不是生产级部署**：Flask 开发服务器，建议只在本机或局域网用。
+
+## 相关仓库
+
+同作者的其他机型项目：
+
+- [oneplus-ace6t-palette-unlock](https://github.com/VeryPond/oneplus-ace6t-palette-unlock) —— 一加 Ace 6T 相机调色盘强开
+- [ace2v-builtin-kernelsu-susfs](https://github.com/VeryPond/ace2v-builtin-kernelsu-susfs) —— 一加 Ace 2V 引导链与内核
 
 ## 免责
 

@@ -27,9 +27,8 @@ _ref/ota_all.json
 _ref/catalog_live.json
 _ref/op15_*.json
 
-# 截图产物
+# 截图产物（docs 下不入库，assets 下的要）
 docs/*.png
-!docs/README.md
 
 # 编辑器
 .vscode/
